@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-11-05"
+  },
+  "results": [
+    {
+      "term": "Other",
+      "count": 162
+    },
+    {
+      "term": "Demand increase for the drug",
+      "count": 125
+    },
+    {
+      "term": "Shortage of an active ingredient",
+      "count": 61
+    },
+    {
+      "term": "Discontinuation of the manufacture of the drug",
+      "count": 46
+    },
+    {
+      "term": "Delay in shipping of the drug",
+      "count": 21
+    },
+    {
+      "term": "Requirements related to complying with good manufacturing practices",
+      "count": 14
+    },
+    {
+      "term": "Regulatory delay",
+      "count": 2
+    },
+    {
+      "term": "Shortage of an inactive ingredient component",
+      "count": 1
+    }
+  ]
+}

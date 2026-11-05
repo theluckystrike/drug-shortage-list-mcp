@@ -1,0 +1,633 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-11-05",
+    "results": {
+      "skip": 0,
+      "limit": 100,
+      "total": 7
+    }
+  },
+  "results": [
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "57844-115-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-545-8800",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040422"
+        ],
+        "brand_name": [
+          "ADDERALL"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE, AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "57844-115",
+          "57844-105",
+          "57844-117",
+          "57844-110",
+          "57844-112",
+          "57844-120",
+          "57844-130"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541365",
+          "541878",
+          "541879",
+          "541892",
+          "541894",
+          "577957",
+          "577960",
+          "577961",
+          "577962",
+          "687043",
+          "687045",
+          "1009145",
+          "1009147"
+        ],
+        "spl_id": [
+          "79af1dc6-c7cf-41b1-a750-e9b47c2187ff"
+        ],
+        "spl_set_id": [
+          "f22635fe-821d-4cde-aa12-419f8b53db81"
+        ],
+        "package_ndc": [
+          "57844-105-01",
+          "57844-117-01",
+          "57844-110-01",
+          "57844-112-01",
+          "57844-115-01",
+          "57844-120-01",
+          "57844-130-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Adderall, Tablet, 3.75 mg; 3.75 mg; 3.75 mg; 3.75 mg (NDC 57844-115-01)",
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "57844-130-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-545-8800",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040422"
+        ],
+        "brand_name": [
+          "ADDERALL"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE, AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "57844-130",
+          "57844-105",
+          "57844-117",
+          "57844-110",
+          "57844-112",
+          "57844-115",
+          "57844-120"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541365",
+          "541878",
+          "541879",
+          "541892",
+          "541894",
+          "577957",
+          "577960",
+          "577961",
+          "577962",
+          "687043",
+          "687045",
+          "1009145",
+          "1009147"
+        ],
+        "spl_id": [
+          "79af1dc6-c7cf-41b1-a750-e9b47c2187ff"
+        ],
+        "spl_set_id": [
+          "f22635fe-821d-4cde-aa12-419f8b53db81"
+        ],
+        "package_ndc": [
+          "57844-105-01",
+          "57844-117-01",
+          "57844-110-01",
+          "57844-112-01",
+          "57844-115-01",
+          "57844-120-01",
+          "57844-130-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Adderall, Tablet, 7.5 mg; 7.5 mg; 7.5 mg; 7.5 mg (NDC 57844-130-01)",
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "57844-110-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-545-8800",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040422"
+        ],
+        "brand_name": [
+          "ADDERALL"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE, AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "57844-110",
+          "57844-105",
+          "57844-117",
+          "57844-112",
+          "57844-115",
+          "57844-120",
+          "57844-130"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541365",
+          "541878",
+          "541879",
+          "541892",
+          "541894",
+          "577957",
+          "577960",
+          "577961",
+          "577962",
+          "687043",
+          "687045",
+          "1009145",
+          "1009147"
+        ],
+        "spl_id": [
+          "79af1dc6-c7cf-41b1-a750-e9b47c2187ff"
+        ],
+        "spl_set_id": [
+          "f22635fe-821d-4cde-aa12-419f8b53db81"
+        ],
+        "package_ndc": [
+          "57844-105-01",
+          "57844-117-01",
+          "57844-110-01",
+          "57844-112-01",
+          "57844-115-01",
+          "57844-120-01",
+          "57844-130-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Adderall, Tablet, 2.5 mg; 2.5 mg; 2.5 mg; 2.5 mg (NDC 57844-110-01)",
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "57844-112-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-545-8800",
+      "availability": "Unavailable",
+      "related_info": "Estimated recovery: November 2026",
+      "openfda": {
+        "application_number": [
+          "ANDA040422"
+        ],
+        "brand_name": [
+          "ADDERALL"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE, AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "57844-112",
+          "57844-105",
+          "57844-117",
+          "57844-110",
+          "57844-115",
+          "57844-120",
+          "57844-130"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541365",
+          "541878",
+          "541879",
+          "541892",
+          "541894",
+          "577957",
+          "577960",
+          "577961",
+          "577962",
+          "687043",
+          "687045",
+          "1009145",
+          "1009147"
+        ],
+        "spl_id": [
+          "79af1dc6-c7cf-41b1-a750-e9b47c2187ff"
+        ],
+        "spl_set_id": [
+          "f22635fe-821d-4cde-aa12-419f8b53db81"
+        ],
+        "package_ndc": [
+          "57844-105-01",
+          "57844-117-01",
+          "57844-110-01",
+          "57844-112-01",
+          "57844-115-01",
+          "57844-120-01",
+          "57844-130-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Adderall, Tablet, 3.125 mg; 3.125 mg; 3.125 mg; 3.125 mg (NDC 57844-112-01)",
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "shortage_reason": "Other",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "57844-117-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-545-8800",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040422"
+        ],
+        "brand_name": [
+          "ADDERALL"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE, AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "57844-117",
+          "57844-105",
+          "57844-110",
+          "57844-112",
+          "57844-115",
+          "57844-120",
+          "57844-130"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541365",
+          "541878",
+          "541879",
+          "541892",
+          "541894",
+          "577957",
+          "577960",
+          "577961",
+          "577962",
+          "687043",
+          "687045",
+          "1009145",
+          "1009147"
+        ],
+        "spl_id": [
+          "79af1dc6-c7cf-41b1-a750-e9b47c2187ff"
+        ],
+        "spl_set_id": [
+          "f22635fe-821d-4cde-aa12-419f8b53db81"
+        ],
+        "package_ndc": [
+          "57844-105-01",
+          "57844-117-01",
+          "57844-110-01",
+          "57844-112-01",
+          "57844-115-01",
+          "57844-120-01",
+          "57844-130-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Adderall, Tablet, 1.875 mg; 1.875 mg; 1.875 mg; 1.875 mg (NDC 57844-117-01)",
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "57844-105-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-545-8800",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040422"
+        ],
+        "brand_name": [
+          "ADDERALL"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE, AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "57844-105",
+          "57844-117",
+          "57844-110",
+          "57844-112",
+          "57844-115",
+          "57844-120",
+          "57844-130"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541365",
+          "541878",
+          "541879",
+          "541892",
+          "541894",
+          "577957",
+          "577960",
+          "577961",
+          "577962",
+          "687043",
+          "687045",
+          "1009145",
+          "1009147"
+        ],
+        "spl_id": [
+          "79af1dc6-c7cf-41b1-a750-e9b47c2187ff"
+        ],
+        "spl_set_id": [
+          "f22635fe-821d-4cde-aa12-419f8b53db81"
+        ],
+        "package_ndc": [
+          "57844-105-01",
+          "57844-117-01",
+          "57844-110-01",
+          "57844-112-01",
+          "57844-115-01",
+          "57844-120-01",
+          "57844-130-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Adderall, Tablet, 1.25 mg; 1.25 mg; 1.25 mg; 1.25 mg (NDC 57844-105-01)",
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "57844-120-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-545-8800",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040422"
+        ],
+        "brand_name": [
+          "ADDERALL"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE, AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "57844-120",
+          "57844-105",
+          "57844-117",
+          "57844-110",
+          "57844-112",
+          "57844-115",
+          "57844-130"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541365",
+          "541878",
+          "541879",
+          "541892",
+          "541894",
+          "577957",
+          "577960",
+          "577961",
+          "577962",
+          "687043",
+          "687045",
+          "1009145",
+          "1009147"
+        ],
+        "spl_id": [
+          "79af1dc6-c7cf-41b1-a750-e9b47c2187ff"
+        ],
+        "spl_set_id": [
+          "f22635fe-821d-4cde-aa12-419f8b53db81"
+        ],
+        "package_ndc": [
+          "57844-105-01",
+          "57844-117-01",
+          "57844-110-01",
+          "57844-112-01",
+          "57844-115-01",
+          "57844-120-01",
+          "57844-130-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Adderall, Tablet, 5 mg; 5 mg; 5 mg; 5 mg (NDC 57844-120-01)",
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "status": "Current"
+    }
+  ]
+}

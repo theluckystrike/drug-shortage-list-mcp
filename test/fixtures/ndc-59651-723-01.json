@@ -1,0 +1,489 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-11-05",
+    "results": {
+      "skip": 0,
+      "limit": 100,
+      "total": 6
+    }
+  },
+  "results": [
+    {
+      "update_type": "Revised",
+      "initial_posting_date": "03/10/2023",
+      "change_date": "11/04/2026",
+      "package_ndc": "59651-723-01",
+      "generic_name": "Clonazepam Tablet",
+      "contact_info": "866-850-2876",
+      "resolved_note": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA075150"
+        ],
+        "brand_name": [
+          "CLONAZEPAM"
+        ],
+        "generic_name": [
+          "CLONAZEPAM"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "59651-723",
+          "59651-722",
+          "59651-724"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CLONAZEPAM"
+        ],
+        "rxcui": [
+          "197527",
+          "197528",
+          "197529"
+        ],
+        "spl_id": [
+          "b1582eb7-af35-45d5-a52e-0e380d08527d"
+        ],
+        "spl_set_id": [
+          "b1582eb7-af35-45d5-a52e-0e380d08527d"
+        ],
+        "package_ndc": [
+          "59651-722-01",
+          "59651-722-99",
+          "59651-723-01",
+          "59651-723-99",
+          "59651-724-01",
+          "59651-724-05"
+        ],
+        "nui": [
+          "N0000175694",
+          "M0002356"
+        ],
+        "pharm_class_epc": [
+          "Benzodiazepine [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Benzodiazepines [CS]"
+        ],
+        "unii": [
+          "5PE9FDE8GB"
+        ]
+      },
+      "update_date": "11/04/2026",
+      "therapeutic_category": [
+        "Neurology",
+        "Pediatric",
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Clonazepam, Tablet, 1 mg (NDC 59651-723-01)",
+      "company_name": "Aurobindo Pharma USA",
+      "status": "Resolved"
+    },
+    {
+      "update_type": "Revised",
+      "initial_posting_date": "03/10/2023",
+      "change_date": "11/04/2026",
+      "package_ndc": "59651-722-99",
+      "generic_name": "Clonazepam Tablet",
+      "contact_info": "866-850-2876",
+      "resolved_note": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA075150"
+        ],
+        "brand_name": [
+          "CLONAZEPAM"
+        ],
+        "generic_name": [
+          "CLONAZEPAM"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "59651-722",
+          "59651-723",
+          "59651-724"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CLONAZEPAM"
+        ],
+        "rxcui": [
+          "197527",
+          "197528",
+          "197529"
+        ],
+        "spl_id": [
+          "b1582eb7-af35-45d5-a52e-0e380d08527d"
+        ],
+        "spl_set_id": [
+          "b1582eb7-af35-45d5-a52e-0e380d08527d"
+        ],
+        "package_ndc": [
+          "59651-722-01",
+          "59651-722-99",
+          "59651-723-01",
+          "59651-723-99",
+          "59651-724-01",
+          "59651-724-05"
+        ],
+        "nui": [
+          "N0000175694",
+          "M0002356"
+        ],
+        "pharm_class_epc": [
+          "Benzodiazepine [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Benzodiazepines [CS]"
+        ],
+        "unii": [
+          "5PE9FDE8GB"
+        ]
+      },
+      "update_date": "11/04/2026",
+      "therapeutic_category": [
+        "Neurology",
+        "Pediatric",
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Clonazepam, Tablet, .5 mg (NDC 59651-722-99)",
+      "company_name": "Aurobindo Pharma USA",
+      "status": "Resolved"
+    },
+    {
+      "update_type": "Revised",
+      "initial_posting_date": "03/10/2023",
+      "change_date": "11/04/2026",
+      "package_ndc": "59651-724-01",
+      "generic_name": "Clonazepam Tablet",
+      "contact_info": "866-850-2876",
+      "resolved_note": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA075150"
+        ],
+        "brand_name": [
+          "CLONAZEPAM"
+        ],
+        "generic_name": [
+          "CLONAZEPAM"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "59651-724",
+          "59651-722",
+          "59651-723"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CLONAZEPAM"
+        ],
+        "rxcui": [
+          "197527",
+          "197528",
+          "197529"
+        ],
+        "spl_id": [
+          "b1582eb7-af35-45d5-a52e-0e380d08527d"
+        ],
+        "spl_set_id": [
+          "b1582eb7-af35-45d5-a52e-0e380d08527d"
+        ],
+        "package_ndc": [
+          "59651-722-01",
+          "59651-722-99",
+          "59651-723-01",
+          "59651-723-99",
+          "59651-724-01",
+          "59651-724-05"
+        ],
+        "nui": [
+          "N0000175694",
+          "M0002356"
+        ],
+        "pharm_class_epc": [
+          "Benzodiazepine [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Benzodiazepines [CS]"
+        ],
+        "unii": [
+          "5PE9FDE8GB"
+        ]
+      },
+      "update_date": "11/04/2026",
+      "therapeutic_category": [
+        "Neurology",
+        "Pediatric",
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Clonazepam, Tablet, 2 mg (NDC 59651-724-01)",
+      "company_name": "Aurobindo Pharma USA",
+      "status": "Resolved"
+    },
+    {
+      "update_type": "Revised",
+      "initial_posting_date": "03/10/2023",
+      "change_date": "11/04/2026",
+      "package_ndc": "59651-723-99",
+      "generic_name": "Clonazepam Tablet",
+      "contact_info": "866-850-2876",
+      "resolved_note": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA075150"
+        ],
+        "brand_name": [
+          "CLONAZEPAM"
+        ],
+        "generic_name": [
+          "CLONAZEPAM"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "59651-723",
+          "59651-722",
+          "59651-724"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CLONAZEPAM"
+        ],
+        "rxcui": [
+          "197527",
+          "197528",
+          "197529"
+        ],
+        "spl_id": [
+          "b1582eb7-af35-45d5-a52e-0e380d08527d"
+        ],
+        "spl_set_id": [
+          "b1582eb7-af35-45d5-a52e-0e380d08527d"
+        ],
+        "package_ndc": [
+          "59651-722-01",
+          "59651-722-99",
+          "59651-723-01",
+          "59651-723-99",
+          "59651-724-01",
+          "59651-724-05"
+        ],
+        "nui": [
+          "N0000175694",
+          "M0002356"
+        ],
+        "pharm_class_epc": [
+          "Benzodiazepine [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Benzodiazepines [CS]"
+        ],
+        "unii": [
+          "5PE9FDE8GB"
+        ]
+      },
+      "update_date": "11/04/2026",
+      "therapeutic_category": [
+        "Neurology",
+        "Pediatric",
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Clonazepam, Tablet, 1 mg (NDC 59651-723-99)",
+      "company_name": "Aurobindo Pharma USA",
+      "status": "Resolved"
+    },
+    {
+      "update_type": "Revised",
+      "initial_posting_date": "03/10/2023",
+      "change_date": "11/04/2026",
+      "package_ndc": "59651-724-05",
+      "generic_name": "Clonazepam Tablet",
+      "contact_info": "866-850-2876",
+      "resolved_note": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA075150"
+        ],
+        "brand_name": [
+          "CLONAZEPAM"
+        ],
+        "generic_name": [
+          "CLONAZEPAM"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "59651-724",
+          "59651-722",
+          "59651-723"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CLONAZEPAM"
+        ],
+        "rxcui": [
+          "197527",
+          "197528",
+          "197529"
+        ],
+        "spl_id": [
+          "b1582eb7-af35-45d5-a52e-0e380d08527d"
+        ],
+        "spl_set_id": [
+          "b1582eb7-af35-45d5-a52e-0e380d08527d"
+        ],
+        "package_ndc": [
+          "59651-722-01",
+          "59651-722-99",
+          "59651-723-01",
+          "59651-723-99",
+          "59651-724-01",
+          "59651-724-05"
+        ],
+        "nui": [
+          "N0000175694",
+          "M0002356"
+        ],
+        "pharm_class_epc": [
+          "Benzodiazepine [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Benzodiazepines [CS]"
+        ],
+        "unii": [
+          "5PE9FDE8GB"
+        ]
+      },
+      "update_date": "11/04/2026",
+      "therapeutic_category": [
+        "Neurology",
+        "Pediatric",
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Clonazepam, Tablet, 2 mg (NDC 59651-724-05)",
+      "company_name": "Aurobindo Pharma USA",
+      "status": "Resolved"
+    },
+    {
+      "update_type": "Revised",
+      "initial_posting_date": "03/10/2023",
+      "change_date": "11/04/2026",
+      "package_ndc": "59651-722-01",
+      "generic_name": "Clonazepam Tablet",
+      "contact_info": "866-850-2876",
+      "resolved_note": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA075150"
+        ],
+        "brand_name": [
+          "CLONAZEPAM"
+        ],
+        "generic_name": [
+          "CLONAZEPAM"
+        ],
+        "manufacturer_name": [
+          "Aurobindo Pharma Limited"
+        ],
+        "product_ndc": [
+          "59651-722",
+          "59651-723",
+          "59651-724"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "CLONAZEPAM"
+        ],
+        "rxcui": [
+          "197527",
+          "197528",
+          "197529"
+        ],
+        "spl_id": [
+          "b1582eb7-af35-45d5-a52e-0e380d08527d"
+        ],
+        "spl_set_id": [
+          "b1582eb7-af35-45d5-a52e-0e380d08527d"
+        ],
+        "package_ndc": [
+          "59651-722-01",
+          "59651-722-99",
+          "59651-723-01",
+          "59651-723-99",
+          "59651-724-01",
+          "59651-724-05"
+        ],
+        "nui": [
+          "N0000175694",
+          "M0002356"
+        ],
+        "pharm_class_epc": [
+          "Benzodiazepine [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Benzodiazepines [CS]"
+        ],
+        "unii": [
+          "5PE9FDE8GB"
+        ]
+      },
+      "update_date": "11/04/2026",
+      "therapeutic_category": [
+        "Neurology",
+        "Pediatric",
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Clonazepam, Tablet, .5 mg (NDC 59651-722-01)",
+      "company_name": "Aurobindo Pharma USA",
+      "status": "Resolved"
+    }
+  ]
+}

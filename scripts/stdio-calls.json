@@ -1,0 +1,6 @@
+[
+  ["search_drug_shortages", { "drug": "Adderall" }],
+  ["get_drug_shortage_by_ndc", { "ndc": "0641-6059-01" }],
+  ["list_recent_drug_shortages", { "therapeutic_category": "Oncology", "limit": 5 }],
+  ["count_drug_shortages", { "by": "drug" }]
+]

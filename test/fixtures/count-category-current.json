@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-11-05"
+  },
+  "results": [
+    {
+      "term": "Anesthesia",
+      "count": 359
+    },
+    {
+      "term": "Pediatric",
+      "count": 227
+    },
+    {
+      "term": "Psychiatry",
+      "count": 220
+    },
+    {
+      "term": "Gastroenterology",
+      "count": 134
+    },
+    {
+      "term": "Analgesia/Addiction",
+      "count": 126
+    },
+    {
+      "term": "Endocrinology/Metabolism",
+      "count": 108
+    },
+    {
+      "term": "Other",
+      "count": 104
+    },
+    {
+      "term": "Neurology",
+      "count": 88
+    },
+    {
+      "term": "Oncology",
+      "count": 84
+    },
+    {
+      "term": "Cardiovascular",
+      "count": 81
+    },
+    {
+      "term": "Rheumatology",
+      "count": 58
+    },
+    {
+      "term": "Anti-Infective",
+      "count": 44
+    },
+    {
+      "term": "Pulmonary/Allergy",
+      "count": 35
+    },
+    {
+      "term": "Hematology",
+      "count": 31
+    },
+    {
+      "term": "Ophthalmology",
+      "count": 21
+    },
+    {
+      "term": "Dermatology",
+      "count": 19
+    },
+    {
+      "term": "Total Parenteral Nutrition",
+      "count": 15
+    },
+    {
+      "term": "Renal",
+      "count": 10
+    },
+    {
+      "term": "Medical Imaging",
+      "count": 3
+    }
+  ]
+}

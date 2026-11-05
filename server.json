@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.theluckystrike/drug-shortage-list-mcp",
+  "title": "Drug Shortage List MCP",
+  "description": "FDA drug shortage list: is a drug in shortage now, by name or NDC, with status and reason.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/theluckystrike/drug-shortage-list-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://drug-shortage-list-mcp.lipmichal.workers.dev/mcp"
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-11-05"
+  },
+  "results": [
+    {
+      "term": "Lisdexamfetamine Dimesylate Capsule",
+      "count": 90
+    },
+    {
+      "term": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "count": 73
+    },
+    {
+      "term": "Lidocaine Hydrochloride Injection",
+      "count": 65
+    },
+    {
+      "term": "Bupivacaine Hydrochloride Injection",
+      "count": 57
+    },
+    {
+      "term": "Dexmedetomidine Hydrochloride Injection",
+      "count": 56
+    },
+    {
+      "term": "Ropivacaine Hydrochloride Injection",
+      "count": 49
+    },
+    {
+      "term": "Dextrose Monohydrate 5% Injection",
+      "count": 36
+    },
+    {
+      "term": "Methylphenidate Hydrochloride Tablet, Extended Release",
+      "count": 34
+    },
+    {
+      "term": "Midazolam Hydrochloride Injection",
+      "count": 30
+    },
+    {
+      "term": "Carboplatin Injection",
+      "count": 29
+    },
+    {
+      "term": "Furosemide Injection",
+      "count": 27
+    },
+    {
+      "term": "Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection",
+      "count": 26
+    },
+    {
+      "term": "Hydromorphone Hydrochloride Injection",
+      "count": 26
+    },
+    {
+      "term": "Rocuronium Bromide Injection",
+      "count": 26
+    },
+    {
+      "term": "Ketorolac Tromethamine Injection",
+      "count": 25
+    },
+    {
+      "term": "Morphine Sulfate Injection",
+      "count": 24
+    },
+    {
+      "term": "Methylprednisolone Acetate Injection",
+      "count": 23
+    },
+    {
+      "term": "Epinephrine Bitartrate, Lidocaine Hydrochloride Injection",
+      "count": 22
+    },
+    {
+      "term": "Fentanyl Citrate Injection",
+      "count": 20
+    },
+    {
+      "term": "Dexamethasone Sodium Phosphate Injection",
+      "count": 19
+    },
+    {
+      "term": "Etomidate Injection",
+      "count": 18
+    },
+    {
+      "term": "Lisdexamfetamine Dimesylate Tablet, Chewable",
+      "count": 18
+    },
+    {
+      "term": "Atropine Sulfate Injection",
+      "count": 17
+    },
+    {
+      "term": "Clindamycin Phosphate Injection",
+      "count": 17
+    },
+    {
+      "term": "Amino Acid Injection",
+      "count": 16
+    },
+    {
+      "term": "Quinapril Hydrochloride Tablet",
+      "count": 16
+    },
+    {
+      "term": "Methotrexate Sodium Injection",
+      "count": 15
+    },
+    {
+      "term": "Sodium Acetate Injection",
+      "count": 15
+    },
+    {
+      "term": "Dextrose Monohydrate 10% Injection",
+      "count": 13
+    },
+    {
+      "term": "Sterile Water Injection",
+      "count": 13
+    },
+    {
+      "term": "Dopamine Hydrochloride Injection",
+      "count": 11
+    },
+    {
+      "term": "Lorazepam Injection",
+      "count": 11
+    },
+    {
+      "term": "Sodium Bicarbonate Injection",
+      "count": 11
+    },
+    {
+      "term": "Dobutamine Hydrochloride Injection",
+      "count": 10
+    },
+    {
+      "term": "Promethazine Hydrochloride Injection",
+      "count": 10
+    },
+    {
+      "term": "Azacitidine Injection",
+      "count": 9
+    },
+    {
+      "term": "Liraglutide Injection",
+      "count": 9
+    },
+    {
+      "term": "Remifentanil Hydrochloride Injection",
+      "count": 9
+    },
+    {
+      "term": "Rifampin Capsule",
+      "count": 9
+    },
+    {
+      "term": "Sterile Water Irrigant",
+      "count": 9
+    },
+    {
+      "term": "Heparin Sodium Injection",
+      "count": 8
+    },
+    {
+      "term": "Ifosfamide Injection",
+      "count": 8
+    },
+    {
+      "term": "Cefotaxime Sodium Powder, for Solution",
+      "count": 6
+    },
+    {
+      "term": "Cromolyn Sodium Concentrate",
+      "count": 6
+    },
+    {
+      "term": "Flurazepam Hydrochloride Capsule",
+      "count": 6
+    },
+    {
+      "term": "Meperidine Hydrochloride Injection",
+      "count": 6
+    },
+    {
+      "term": "Quinapril/Hydrochlorothiazide Tablet",
+      "count": 6
+    },
+    {
+      "term": "Desmopressin Acetate Spray",
+      "count": 4
+    },
+    {
+      "term": "Dextrose Monohydrate 70% Injection",
+      "count": 4
+    },
+    {
+      "term": "Methylphenidate Film, Extended Release",
+      "count": 4
+    },
+    {
+      "term": "Metronidazole Injection",
+      "count": 4
+    },
+    {
+      "term": "Penicillin G Benzathine Injection",
+      "count": 4
+    },
+    {
+      "term": "Riluzole Oral Suspension",
+      "count": 4
+    },
+    {
+      "term": "Sufentanil Citrate Injection",
+      "count": 4
+    },
+    {
+      "term": "Dextrose Monohydrate 50% Injection",
+      "count": 3
+    },
+    {
+      "term": "Furosemide Oral Solution",
+      "count": 3
+    },
+    {
+      "term": "Rifampin Injection",
+      "count": 3
+    },
+    {
+      "term": "Technetium TC-99M Pyrophosphate Kit Injection",
+      "count": 3
+    },
+    {
+      "term": "Hydroxocobalamin Injection",
+      "count": 2
+    },
+    {
+      "term": "Propranolol Hydrochloride Injection",
+      "count": 2
+    },
+    {
+      "term": "Streptozocin Powder, For Solution",
+      "count": 2
+    },
+    {
+      "term": "Valproate Sodium Injection",
+      "count": 2
+    },
+    {
+      "term": "Bacitracin Ophthalmic Ointment",
+      "count": 1
+    },
+    {
+      "term": "Conivaptan Hydrochloride Injection",
+      "count": 1
+    },
+    {
+      "term": "Echothiophate Iodide Ophthalmic Solution",
+      "count": 1
+    },
+    {
+      "term": "Isocarboxazid Tablet",
+      "count": 1
+    },
+    {
+      "term": "Pentostatin Injection",
+      "count": 1
+    },
+    {
+      "term": "Triamcinolone Hexacetonide Injection",
+      "count": 1
+    }
+  ]
+}

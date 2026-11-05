@@ -1,0 +1,5861 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-11-05",
+    "results": {
+      "skip": 0,
+      "limit": 100,
+      "total": 73
+    }
+  },
+  "results": [
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "42806-344-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "(718) 276-8600 ext. 3",
+      "availability": "Limited Availability",
+      "related_info": "Estimated recovery: TBD",
+      "openfda": {
+        "application_number": [
+          "ANDA040444"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Epic Pharma, LLC"
+        ],
+        "product_ndc": [
+          "42806-344",
+          "42806-339",
+          "42806-341",
+          "42806-343",
+          "42806-345"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961"
+        ],
+        "spl_id": [
+          "f11301e2-3b5d-468d-b44c-45839e7e5dfb"
+        ],
+        "spl_set_id": [
+          "1757e132-061d-4773-89ed-fdc77f69008f"
+        ],
+        "package_ndc": [
+          "42806-339-01",
+          "42806-341-01",
+          "42806-343-01",
+          "42806-344-01",
+          "42806-345-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/03/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 5 mg; 5 mg; 5 mg; 5 mg (NDC 42806-344-01)",
+      "company_name": "Epic Pharma, LLC",
+      "shortage_reason": "Shortage of an active ingredient",
+      "status": "Current"
+    },
+    {
+      "update_type": "Revised",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "70010-113-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "877-770-3183",
+      "availability": "Unavailable",
+      "related_info": "Estimated recovery: November 2026",
+      "openfda": {
+        "application_number": [
+          "ANDA215771"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Granules Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "70010-113",
+          "70010-111",
+          "70010-112",
+          "70010-114",
+          "70010-115",
+          "70010-116",
+          "70010-117"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "56c7c921-e560-c5ad-e063-6294a90a4c81"
+        ],
+        "spl_set_id": [
+          "b0b4eccc-34c7-483d-966f-82d588358e1b"
+        ],
+        "package_ndc": [
+          "70010-111-01",
+          "70010-111-03",
+          "70010-112-01",
+          "70010-112-03",
+          "70010-113-01",
+          "70010-113-03",
+          "70010-114-01",
+          "70010-114-03",
+          "70010-115-01",
+          "70010-115-03",
+          "70010-116-01",
+          "70010-116-03",
+          "70010-117-01",
+          "70010-117-03"
+        ],
+        "unii": [
+          "JJ768O327N",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "G83415V073"
+        ]
+      },
+      "update_date": "10/28/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 2.5 mg; 2.5 mg; 2.5 mg; 2.5 mg (NDC 70010-113-01)",
+      "company_name": "Granules Pharmaceuticals Inc.",
+      "shortage_reason": "Shortage of an active ingredient",
+      "status": "Current"
+    },
+    {
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 2.5 mg; 2.5 mg; 2.5 mg; 2.5 mg (NDC 0527-1502-37)",
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "0527-1502-37",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "company_name": "Lannett Company, Inc.",
+      "contact_info": "844-834-0530",
+      "availability": "Available",
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "status": "Current",
+      "dosage_form": "Tablet"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "42806-341-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "(718) 276-8600 ext. 3",
+      "availability": "Limited Availability",
+      "related_info": "Estimated recovery: TBD",
+      "openfda": {
+        "application_number": [
+          "ANDA040444"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Epic Pharma, LLC"
+        ],
+        "product_ndc": [
+          "42806-341",
+          "42806-339",
+          "42806-343",
+          "42806-344",
+          "42806-345"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961"
+        ],
+        "spl_id": [
+          "f11301e2-3b5d-468d-b44c-45839e7e5dfb"
+        ],
+        "spl_set_id": [
+          "1757e132-061d-4773-89ed-fdc77f69008f"
+        ],
+        "package_ndc": [
+          "42806-339-01",
+          "42806-341-01",
+          "42806-343-01",
+          "42806-344-01",
+          "42806-345-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/03/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 2.5 mg; 2.5 mg; 2.5 mg; 2.5 mg (NDC 42806-341-01)",
+      "company_name": "Epic Pharma, LLC",
+      "shortage_reason": "Shortage of an active ingredient",
+      "status": "Current"
+    },
+    {
+      "update_type": "Revised",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "13107-074-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "(866) 850-2876 OR CustomerService@AurobindoUSA.com",
+      "availability": "Unavailable",
+      "related_info": "Estimated availability: April 2027",
+      "openfda": {
+        "application_number": [
+          "ANDA202424"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Aurolife Pharma, LLC"
+        ],
+        "product_ndc": [
+          "13107-074",
+          "13107-068",
+          "13107-069",
+          "13107-070",
+          "13107-071",
+          "13107-072",
+          "13107-073"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "44a9eb77-0896-4b62-9953-7121d97d6ffd"
+        ],
+        "spl_set_id": [
+          "a582d57f-d191-4ca5-b105-585b2d8a0e3e"
+        ],
+        "package_ndc": [
+          "13107-068-50",
+          "13107-068-01",
+          "13107-068-25",
+          "13107-068-05",
+          "13107-068-99",
+          "13107-069-50",
+          "13107-069-01",
+          "13107-069-25",
+          "13107-069-05",
+          "13107-069-99",
+          "13107-070-50",
+          "13107-070-01",
+          "13107-070-25",
+          "13107-070-05",
+          "13107-070-99",
+          "13107-071-50",
+          "13107-071-01",
+          "13107-071-25",
+          "13107-071-05",
+          "13107-071-99",
+          "13107-072-50",
+          "13107-072-01",
+          "13107-072-25",
+          "13107-072-05",
+          "13107-072-99",
+          "13107-073-50",
+          "13107-073-01",
+          "13107-073-25",
+          "13107-073-05",
+          "13107-073-99",
+          "13107-074-50",
+          "13107-074-01",
+          "13107-074-25",
+          "13107-074-05",
+          "13107-074-99"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "10/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 7.5 mg; 7.5 mg; 7.5 mg; 7.5 mg (NDC 13107-074-01)",
+      "company_name": "Aurobindo Pharma USA",
+      "shortage_reason": "Shortage of an active ingredient",
+      "status": "Current"
+    },
+    {
+      "update_type": "Revised",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "0406-8891-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-325-8888",
+      "availability": "Limited Availability",
+      "related_info": "Estimated recovery: TBD",
+      "openfda": {
+        "application_number": [
+          "ANDA040440"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE AND AMPHETAMINE ASPARTATE AND DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE AND AMPHETAMINE ASPARTATE AND DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "SpecGx LLC"
+        ],
+        "product_ndc": [
+          "0406-8891",
+          "0406-8884",
+          "0406-8892",
+          "0406-8885",
+          "0406-8893",
+          "0406-8894"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "1009145"
+        ],
+        "spl_id": [
+          "0d3fb5ba-ff79-4862-bc1d-45b8343e115b"
+        ],
+        "spl_set_id": [
+          "72ddd1c9-ddbd-4c95-acd9-003189a353a3"
+        ],
+        "package_ndc": [
+          "0406-8891-01",
+          "0406-8884-01",
+          "0406-8892-01",
+          "0406-8885-01",
+          "0406-8893-01",
+          "0406-8894-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "08/20/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 1.25 mg; 1.25 mg; 1.25 mg; 1.25 mg (NDC 0406-8891-01)",
+      "company_name": "SpecGx LLC",
+      "shortage_reason": "Demand increase for the drug",
+      "status": "Current"
+    },
+    {
+      "update_type": "Revised",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "13107-073-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "(866) 850-2876 or CustomerService@AurobindoUSA.com",
+      "availability": "Unavailable",
+      "related_info": "Estimated availability: April 2027",
+      "openfda": {
+        "application_number": [
+          "ANDA202424"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Aurolife Pharma, LLC"
+        ],
+        "product_ndc": [
+          "13107-073",
+          "13107-068",
+          "13107-069",
+          "13107-070",
+          "13107-071",
+          "13107-072",
+          "13107-074"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "44a9eb77-0896-4b62-9953-7121d97d6ffd"
+        ],
+        "spl_set_id": [
+          "a582d57f-d191-4ca5-b105-585b2d8a0e3e"
+        ],
+        "package_ndc": [
+          "13107-068-50",
+          "13107-068-01",
+          "13107-068-25",
+          "13107-068-05",
+          "13107-068-99",
+          "13107-069-50",
+          "13107-069-01",
+          "13107-069-25",
+          "13107-069-05",
+          "13107-069-99",
+          "13107-070-50",
+          "13107-070-01",
+          "13107-070-25",
+          "13107-070-05",
+          "13107-070-99",
+          "13107-071-50",
+          "13107-071-01",
+          "13107-071-25",
+          "13107-071-05",
+          "13107-071-99",
+          "13107-072-50",
+          "13107-072-01",
+          "13107-072-25",
+          "13107-072-05",
+          "13107-072-99",
+          "13107-073-50",
+          "13107-073-01",
+          "13107-073-25",
+          "13107-073-05",
+          "13107-073-99",
+          "13107-074-50",
+          "13107-074-01",
+          "13107-074-25",
+          "13107-074-05",
+          "13107-074-99"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "10/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 5 mg; 5 mg; 5 mg; 5 mg (NDC 13107-073-01)",
+      "company_name": "Aurobindo Pharma USA",
+      "shortage_reason": "Shortage of an active ingredient",
+      "status": "Current"
+    },
+    {
+      "update_type": "Revised",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "13107-068-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "(866) 850-2876 or CustomerService@AurobindoUSA.com",
+      "availability": "Unavailable",
+      "related_info": "Estimated availability: April 2027",
+      "openfda": {
+        "application_number": [
+          "ANDA202424"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Aurolife Pharma, LLC"
+        ],
+        "product_ndc": [
+          "13107-068",
+          "13107-069",
+          "13107-070",
+          "13107-071",
+          "13107-072",
+          "13107-073",
+          "13107-074"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "44a9eb77-0896-4b62-9953-7121d97d6ffd"
+        ],
+        "spl_set_id": [
+          "a582d57f-d191-4ca5-b105-585b2d8a0e3e"
+        ],
+        "package_ndc": [
+          "13107-068-50",
+          "13107-068-01",
+          "13107-068-25",
+          "13107-068-05",
+          "13107-068-99",
+          "13107-069-50",
+          "13107-069-01",
+          "13107-069-25",
+          "13107-069-05",
+          "13107-069-99",
+          "13107-070-50",
+          "13107-070-01",
+          "13107-070-25",
+          "13107-070-05",
+          "13107-070-99",
+          "13107-071-50",
+          "13107-071-01",
+          "13107-071-25",
+          "13107-071-05",
+          "13107-071-99",
+          "13107-072-50",
+          "13107-072-01",
+          "13107-072-25",
+          "13107-072-05",
+          "13107-072-99",
+          "13107-073-50",
+          "13107-073-01",
+          "13107-073-25",
+          "13107-073-05",
+          "13107-073-99",
+          "13107-074-50",
+          "13107-074-01",
+          "13107-074-25",
+          "13107-074-05",
+          "13107-074-99"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "10/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 1.25 mg; 1.25 mg; 1.25 mg; 1.25 mg (NDC 13107-068-01)",
+      "company_name": "Aurobindo Pharma USA",
+      "shortage_reason": "Shortage of an active ingredient",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "11534-190-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "732-382-6085 Monday to Friday 9 am to 3:45 pm",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA209799"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "SUNRISE PHARMACEUTICAL, INC."
+        ],
+        "product_ndc": [
+          "11534-190",
+          "11534-191",
+          "11534-192",
+          "11534-193",
+          "11534-194",
+          "11534-195",
+          "11534-196"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "60dcfbf6-d07a-4010-ae77-8a9ae4529828"
+        ],
+        "spl_set_id": [
+          "ac102599-3a5b-4154-899e-6ff262be7ff7"
+        ],
+        "package_ndc": [
+          "11534-190-01",
+          "11534-190-03",
+          "11534-191-01",
+          "11534-191-03",
+          "11534-192-01",
+          "11534-192-03",
+          "11534-193-01",
+          "11534-193-03",
+          "11534-194-01",
+          "11534-194-03",
+          "11534-195-01",
+          "11534-195-03",
+          "11534-196-01",
+          "11534-196-03"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/01/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 1.25 mg; 1.25 mg; 1.25 mg; 1.25 mg (NDC 11534-190-01)",
+      "company_name": "Sunrise Pharmaceutical, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "57844-115-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-545-8800",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040422"
+        ],
+        "brand_name": [
+          "ADDERALL"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE, AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "57844-115",
+          "57844-105",
+          "57844-117",
+          "57844-110",
+          "57844-112",
+          "57844-120",
+          "57844-130"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541365",
+          "541878",
+          "541879",
+          "541892",
+          "541894",
+          "577957",
+          "577960",
+          "577961",
+          "577962",
+          "687043",
+          "687045",
+          "1009145",
+          "1009147"
+        ],
+        "spl_id": [
+          "79af1dc6-c7cf-41b1-a750-e9b47c2187ff"
+        ],
+        "spl_set_id": [
+          "f22635fe-821d-4cde-aa12-419f8b53db81"
+        ],
+        "package_ndc": [
+          "57844-105-01",
+          "57844-117-01",
+          "57844-110-01",
+          "57844-112-01",
+          "57844-115-01",
+          "57844-120-01",
+          "57844-130-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Adderall, Tablet, 3.75 mg; 3.75 mg; 3.75 mg; 3.75 mg (NDC 57844-115-01)",
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Revised",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "0406-8892-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-325-8888",
+      "availability": "Limited Availability",
+      "related_info": "Estimated recovery: TBD",
+      "openfda": {
+        "application_number": [
+          "ANDA040440"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE AND AMPHETAMINE ASPARTATE AND DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE AND AMPHETAMINE ASPARTATE AND DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "SpecGx LLC"
+        ],
+        "product_ndc": [
+          "0406-8892",
+          "0406-8891",
+          "0406-8884",
+          "0406-8885",
+          "0406-8893",
+          "0406-8894"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "1009145"
+        ],
+        "spl_id": [
+          "0d3fb5ba-ff79-4862-bc1d-45b8343e115b"
+        ],
+        "spl_set_id": [
+          "72ddd1c9-ddbd-4c95-acd9-003189a353a3"
+        ],
+        "package_ndc": [
+          "0406-8891-01",
+          "0406-8884-01",
+          "0406-8892-01",
+          "0406-8885-01",
+          "0406-8893-01",
+          "0406-8894-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "08/20/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 2.5 mg; 2.5 mg; 2.5 mg; 2.5 mg (NDC 0406-8892-01)",
+      "company_name": "SpecGx LLC",
+      "shortage_reason": "Demand increase for the drug",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "64850-502-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "888-852-6657",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA211352"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Elite Laboratories, Inc."
+        ],
+        "product_ndc": [
+          "64850-502",
+          "64850-500",
+          "64850-501",
+          "64850-503",
+          "64850-504",
+          "64850-505",
+          "64850-506"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "a41cf8e5-cb1b-488c-96b3-3bef8283d6c4"
+        ],
+        "spl_set_id": [
+          "e677690f-790f-4626-ad78-097cdb6ea540"
+        ],
+        "package_ndc": [
+          "64850-500-01",
+          "64850-500-05",
+          "64850-500-30",
+          "64850-501-01",
+          "64850-501-05",
+          "64850-501-30",
+          "64850-502-01",
+          "64850-502-05",
+          "64850-502-30",
+          "64850-503-01",
+          "64850-503-05",
+          "64850-503-30",
+          "64850-504-01",
+          "64850-504-05",
+          "64850-504-30",
+          "64850-505-01",
+          "64850-505-05",
+          "64850-505-30",
+          "64850-506-01",
+          "64850-506-05",
+          "64850-506-30"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/03/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 2.5 mg; 2.5 mg; 2.5 mg; 2.5 mg (NDC 64850-502-01)",
+      "company_name": "Elite Laboratories, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "11534-192-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "732-382-6085 Monday to Friday 9 am to 3:45 pm",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA209799"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "SUNRISE PHARMACEUTICAL, INC."
+        ],
+        "product_ndc": [
+          "11534-192",
+          "11534-190",
+          "11534-191",
+          "11534-193",
+          "11534-194",
+          "11534-195",
+          "11534-196"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "60dcfbf6-d07a-4010-ae77-8a9ae4529828"
+        ],
+        "spl_set_id": [
+          "ac102599-3a5b-4154-899e-6ff262be7ff7"
+        ],
+        "package_ndc": [
+          "11534-190-01",
+          "11534-190-03",
+          "11534-191-01",
+          "11534-191-03",
+          "11534-192-01",
+          "11534-192-03",
+          "11534-193-01",
+          "11534-193-03",
+          "11534-194-01",
+          "11534-194-03",
+          "11534-195-01",
+          "11534-195-03",
+          "11534-196-01",
+          "11534-196-03"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/01/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 2.5 mg; 2.5 mg; 2.5 mg; 2.5 mg (NDC 11534-192-01)",
+      "company_name": "Sunrise Pharmaceutical, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Revised",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "0527-0766-37",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "844-834-0530",
+      "availability": "Limited Availability",
+      "related_info": "Estimated recovery: TBD",
+      "openfda": {
+        "application_number": [
+          "ANDA215565"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Lannett Company, LLC"
+        ],
+        "product_ndc": [
+          "0527-0766",
+          "0527-0760",
+          "0527-0761",
+          "0527-0762",
+          "0527-0763",
+          "0527-0764",
+          "0527-0765"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "391d7c4a-47df-41ce-b1ba-3c4758adf87f"
+        ],
+        "spl_set_id": [
+          "f92497b5-baea-4760-b615-45a0b6184402"
+        ],
+        "package_ndc": [
+          "0527-0760-37",
+          "0527-0761-37",
+          "0527-0762-37",
+          "0527-0763-37",
+          "0527-0764-37",
+          "0527-0765-37",
+          "0527-0766-37"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 7.5 mg; 7.5 mg; 7.5 mg; 7.5 mg (NDC 0527-0766-37)",
+      "company_name": "Lannett Company, Inc.",
+      "shortage_reason": "Shortage of an active ingredient",
+      "status": "Current"
+    },
+    {
+      "update_type": "Revised",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "70010-117-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "877-770-3183",
+      "availability": "Unavailable",
+      "related_info": "Estimated recovery: November 2026",
+      "openfda": {
+        "application_number": [
+          "ANDA215771"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Granules Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "70010-117",
+          "70010-111",
+          "70010-112",
+          "70010-113",
+          "70010-114",
+          "70010-115",
+          "70010-116"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE",
+          "DEXTROAMPHETAMINE SACCHARATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "56c7c921-e560-c5ad-e063-6294a90a4c81"
+        ],
+        "spl_set_id": [
+          "b0b4eccc-34c7-483d-966f-82d588358e1b"
+        ],
+        "package_ndc": [
+          "70010-111-01",
+          "70010-111-03",
+          "70010-112-01",
+          "70010-112-03",
+          "70010-113-01",
+          "70010-113-03",
+          "70010-114-01",
+          "70010-114-03",
+          "70010-115-01",
+          "70010-115-03",
+          "70010-116-01",
+          "70010-116-03",
+          "70010-117-01",
+          "70010-117-03"
+        ],
+        "unii": [
+          "JJ768O327N",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "G83415V073"
+        ]
+      },
+      "update_date": "10/28/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 7.5 mg; 7.5 mg; 7.5 mg; 7.5 mg (NDC 70010-117-01)",
+      "company_name": "Granules Pharmaceuticals Inc.",
+      "shortage_reason": "Shortage of an active ingredient",
+      "status": "Current"
+    },
+    {
+      "update_type": "Revised",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "70010-112-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "877-770-3183",
+      "availability": "Unavailable",
+      "related_info": "Estimated recovery: December 2026",
+      "openfda": {
+        "application_number": [
+          "ANDA215771"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Granules Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "70010-112",
+          "70010-111",
+          "70010-113",
+          "70010-114",
+          "70010-115",
+          "70010-116",
+          "70010-117"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "56c7c921-e560-c5ad-e063-6294a90a4c81"
+        ],
+        "spl_set_id": [
+          "b0b4eccc-34c7-483d-966f-82d588358e1b"
+        ],
+        "package_ndc": [
+          "70010-111-01",
+          "70010-111-03",
+          "70010-112-01",
+          "70010-112-03",
+          "70010-113-01",
+          "70010-113-03",
+          "70010-114-01",
+          "70010-114-03",
+          "70010-115-01",
+          "70010-115-03",
+          "70010-116-01",
+          "70010-116-03",
+          "70010-117-01",
+          "70010-117-03"
+        ],
+        "unii": [
+          "JJ768O327N",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "G83415V073"
+        ]
+      },
+      "update_date": "10/28/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 1.875 mg; 1.875 mg; 1.875 mg; 1.875 mg (NDC 70010-112-01)",
+      "company_name": "Granules Pharmaceuticals Inc.",
+      "shortage_reason": "Shortage of an active ingredient",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "08/15/2023",
+      "package_ndc": "64850-506-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "888-852-6657",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA211352"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Elite Laboratories, Inc."
+        ],
+        "product_ndc": [
+          "64850-506",
+          "64850-500",
+          "64850-501",
+          "64850-502",
+          "64850-503",
+          "64850-504",
+          "64850-505"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "a41cf8e5-cb1b-488c-96b3-3bef8283d6c4"
+        ],
+        "spl_set_id": [
+          "e677690f-790f-4626-ad78-097cdb6ea540"
+        ],
+        "package_ndc": [
+          "64850-500-01",
+          "64850-500-05",
+          "64850-500-30",
+          "64850-501-01",
+          "64850-501-05",
+          "64850-501-30",
+          "64850-502-01",
+          "64850-502-05",
+          "64850-502-30",
+          "64850-503-01",
+          "64850-503-05",
+          "64850-503-30",
+          "64850-504-01",
+          "64850-504-05",
+          "64850-504-30",
+          "64850-505-01",
+          "64850-505-05",
+          "64850-505-30",
+          "64850-506-01",
+          "64850-506-05",
+          "64850-506-30"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/03/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 7.5 mg; 7.5 mg; 7.5 mg; 7.5 mg (NDC 64850-506-01)",
+      "company_name": "Elite Laboratories, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "72516-016-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "855-257-0292",
+      "availability": "Unavailable",
+      "related_info": "Estimated recovery: April 2027",
+      "openfda": {
+        "application_number": [
+          "ANDA210293"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Oryza Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "72516-016",
+          "72516-015",
+          "72516-014",
+          "72516-013",
+          "72516-012",
+          "72516-011"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "1009145"
+        ],
+        "spl_id": [
+          "5734011d-5044-b490-e063-6394a90a3174"
+        ],
+        "spl_set_id": [
+          "acd27181-a3f3-4c38-85d8-029a4a82e7c2"
+        ],
+        "package_ndc": [
+          "72516-016-01",
+          "72516-015-01",
+          "72516-014-01",
+          "72516-013-01",
+          "72516-012-01",
+          "72516-011-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "10/15/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 1.25 mg; 1.25 mg; 1.25 mg; 1.25 mg (NDC 72516-016-01)",
+      "company_name": "Oryza Pharmaceuticals Inc.",
+      "shortage_reason": "Shortage of an active ingredient",
+      "status": "Current"
+    },
+    {
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 15mg (NDC 47781-178-01)",
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "47781-178-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "company_name": "Alvogen",
+      "contact_info": "844-842-8672 and email: CustomerService-US@alvogen.com",
+      "availability": "Available",
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "status": "Current",
+      "dosage_form": "Tablet"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "0527-0764-37",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "844-834-0530",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA215565"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Lannett Company, LLC"
+        ],
+        "product_ndc": [
+          "0527-0764",
+          "0527-0760",
+          "0527-0761",
+          "0527-0762",
+          "0527-0763",
+          "0527-0765",
+          "0527-0766"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "391d7c4a-47df-41ce-b1ba-3c4758adf87f"
+        ],
+        "spl_set_id": [
+          "f92497b5-baea-4760-b615-45a0b6184402"
+        ],
+        "package_ndc": [
+          "0527-0760-37",
+          "0527-0761-37",
+          "0527-0762-37",
+          "0527-0763-37",
+          "0527-0764-37",
+          "0527-0765-37",
+          "0527-0766-37"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 3.75 mg; 3.75 mg; 3.75 mg; 3.75 mg (NDC 0527-0764-37)",
+      "company_name": "Lannett Company, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "42806-345-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "(718) 276-8600 ext. 3",
+      "availability": "Limited Availability",
+      "related_info": "Estimated recovery: TBD",
+      "openfda": {
+        "application_number": [
+          "ANDA040444"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Epic Pharma, LLC"
+        ],
+        "product_ndc": [
+          "42806-345",
+          "42806-339",
+          "42806-341",
+          "42806-343",
+          "42806-344"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961"
+        ],
+        "spl_id": [
+          "f11301e2-3b5d-468d-b44c-45839e7e5dfb"
+        ],
+        "spl_set_id": [
+          "1757e132-061d-4773-89ed-fdc77f69008f"
+        ],
+        "package_ndc": [
+          "42806-339-01",
+          "42806-341-01",
+          "42806-343-01",
+          "42806-344-01",
+          "42806-345-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/03/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 7.5 mg; 7.5 mg; 7.5 mg; 7.5 mg (NDC 42806-345-01)",
+      "company_name": "Epic Pharma, LLC",
+      "shortage_reason": "Shortage of an active ingredient",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "57844-130-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-545-8800",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040422"
+        ],
+        "brand_name": [
+          "ADDERALL"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE, AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "57844-130",
+          "57844-105",
+          "57844-117",
+          "57844-110",
+          "57844-112",
+          "57844-115",
+          "57844-120"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541365",
+          "541878",
+          "541879",
+          "541892",
+          "541894",
+          "577957",
+          "577960",
+          "577961",
+          "577962",
+          "687043",
+          "687045",
+          "1009145",
+          "1009147"
+        ],
+        "spl_id": [
+          "79af1dc6-c7cf-41b1-a750-e9b47c2187ff"
+        ],
+        "spl_set_id": [
+          "f22635fe-821d-4cde-aa12-419f8b53db81"
+        ],
+        "package_ndc": [
+          "57844-105-01",
+          "57844-117-01",
+          "57844-110-01",
+          "57844-112-01",
+          "57844-115-01",
+          "57844-120-01",
+          "57844-130-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Adderall, Tablet, 7.5 mg; 7.5 mg; 7.5 mg; 7.5 mg (NDC 57844-130-01)",
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "64850-504-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "888-852-6657",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA211352"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Elite Laboratories, Inc."
+        ],
+        "product_ndc": [
+          "64850-504",
+          "64850-500",
+          "64850-501",
+          "64850-502",
+          "64850-503",
+          "64850-505",
+          "64850-506"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "a41cf8e5-cb1b-488c-96b3-3bef8283d6c4"
+        ],
+        "spl_set_id": [
+          "e677690f-790f-4626-ad78-097cdb6ea540"
+        ],
+        "package_ndc": [
+          "64850-500-01",
+          "64850-500-05",
+          "64850-500-30",
+          "64850-501-01",
+          "64850-501-05",
+          "64850-501-30",
+          "64850-502-01",
+          "64850-502-05",
+          "64850-502-30",
+          "64850-503-01",
+          "64850-503-05",
+          "64850-503-30",
+          "64850-504-01",
+          "64850-504-05",
+          "64850-504-30",
+          "64850-505-01",
+          "64850-505-05",
+          "64850-505-30",
+          "64850-506-01",
+          "64850-506-05",
+          "64850-506-30"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/03/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 3.75 mg; 3.75 mg; 3.75 mg; 3.75 mg (NDC 64850-504-01)",
+      "company_name": "Elite Laboratories, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Revised",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "13107-070-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "(866) 850-2876 or CustomerService@AurobindoUSA.com",
+      "availability": "Unavailable",
+      "related_info": "Estimated availability: April 2027",
+      "openfda": {
+        "application_number": [
+          "ANDA202424"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Aurolife Pharma, LLC"
+        ],
+        "product_ndc": [
+          "13107-070",
+          "13107-068",
+          "13107-069",
+          "13107-071",
+          "13107-072",
+          "13107-073",
+          "13107-074"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "44a9eb77-0896-4b62-9953-7121d97d6ffd"
+        ],
+        "spl_set_id": [
+          "a582d57f-d191-4ca5-b105-585b2d8a0e3e"
+        ],
+        "package_ndc": [
+          "13107-068-50",
+          "13107-068-01",
+          "13107-068-25",
+          "13107-068-05",
+          "13107-068-99",
+          "13107-069-50",
+          "13107-069-01",
+          "13107-069-25",
+          "13107-069-05",
+          "13107-069-99",
+          "13107-070-50",
+          "13107-070-01",
+          "13107-070-25",
+          "13107-070-05",
+          "13107-070-99",
+          "13107-071-50",
+          "13107-071-01",
+          "13107-071-25",
+          "13107-071-05",
+          "13107-071-99",
+          "13107-072-50",
+          "13107-072-01",
+          "13107-072-25",
+          "13107-072-05",
+          "13107-072-99",
+          "13107-073-50",
+          "13107-073-01",
+          "13107-073-25",
+          "13107-073-05",
+          "13107-073-99",
+          "13107-074-50",
+          "13107-074-01",
+          "13107-074-25",
+          "13107-074-05",
+          "13107-074-99"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "10/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 2.5 mg; 2.5 mg; 2.5 mg; 2.5 mg (NDC 13107-070-01)",
+      "company_name": "Aurobindo Pharma USA",
+      "shortage_reason": "Shortage of an active ingredient",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "57844-110-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-545-8800",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040422"
+        ],
+        "brand_name": [
+          "ADDERALL"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE, AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "57844-110",
+          "57844-105",
+          "57844-117",
+          "57844-112",
+          "57844-115",
+          "57844-120",
+          "57844-130"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541365",
+          "541878",
+          "541879",
+          "541892",
+          "541894",
+          "577957",
+          "577960",
+          "577961",
+          "577962",
+          "687043",
+          "687045",
+          "1009145",
+          "1009147"
+        ],
+        "spl_id": [
+          "79af1dc6-c7cf-41b1-a750-e9b47c2187ff"
+        ],
+        "spl_set_id": [
+          "f22635fe-821d-4cde-aa12-419f8b53db81"
+        ],
+        "package_ndc": [
+          "57844-105-01",
+          "57844-117-01",
+          "57844-110-01",
+          "57844-112-01",
+          "57844-115-01",
+          "57844-120-01",
+          "57844-130-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Adderall, Tablet, 2.5 mg; 2.5 mg; 2.5 mg; 2.5 mg (NDC 57844-110-01)",
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "42806-343-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "(718) 276-8600 ext. 3",
+      "availability": "Limited Availability",
+      "related_info": "Estimated recovery: TBD",
+      "openfda": {
+        "application_number": [
+          "ANDA040444"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Epic Pharma, LLC"
+        ],
+        "product_ndc": [
+          "42806-343",
+          "42806-339",
+          "42806-341",
+          "42806-344",
+          "42806-345"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961"
+        ],
+        "spl_id": [
+          "f11301e2-3b5d-468d-b44c-45839e7e5dfb"
+        ],
+        "spl_set_id": [
+          "1757e132-061d-4773-89ed-fdc77f69008f"
+        ],
+        "package_ndc": [
+          "42806-339-01",
+          "42806-341-01",
+          "42806-343-01",
+          "42806-344-01",
+          "42806-345-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/03/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 3.75 mg; 3.75 mg; 3.75 mg; 3.75 mg (NDC 42806-343-01)",
+      "company_name": "Epic Pharma, LLC",
+      "shortage_reason": "Shortage of an active ingredient",
+      "status": "Current"
+    },
+    {
+      "update_type": "Revised",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "70010-114-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "877-770-3183",
+      "availability": "Unavailable",
+      "related_info": "Estimated recovery: December 2026",
+      "openfda": {
+        "application_number": [
+          "ANDA215771"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Granules Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "70010-114",
+          "70010-111",
+          "70010-112",
+          "70010-113",
+          "70010-115",
+          "70010-116",
+          "70010-117"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "56c7c921-e560-c5ad-e063-6294a90a4c81"
+        ],
+        "spl_set_id": [
+          "b0b4eccc-34c7-483d-966f-82d588358e1b"
+        ],
+        "package_ndc": [
+          "70010-111-01",
+          "70010-111-03",
+          "70010-112-01",
+          "70010-112-03",
+          "70010-113-01",
+          "70010-113-03",
+          "70010-114-01",
+          "70010-114-03",
+          "70010-115-01",
+          "70010-115-03",
+          "70010-116-01",
+          "70010-116-03",
+          "70010-117-01",
+          "70010-117-03"
+        ],
+        "unii": [
+          "JJ768O327N",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "G83415V073"
+        ]
+      },
+      "update_date": "10/28/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 3.125 mg; 3.125 mg; 3.125 mg; 3.125 mg (NDC 70010-114-01)",
+      "company_name": "Granules Pharmaceuticals Inc.",
+      "shortage_reason": "Shortage of an active ingredient",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "11534-196-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "732-382-6085 Monday to Friday 9 am to 3:45 pm",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA209799"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "SUNRISE PHARMACEUTICAL, INC."
+        ],
+        "product_ndc": [
+          "11534-196",
+          "11534-190",
+          "11534-191",
+          "11534-192",
+          "11534-193",
+          "11534-194",
+          "11534-195"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "60dcfbf6-d07a-4010-ae77-8a9ae4529828"
+        ],
+        "spl_set_id": [
+          "ac102599-3a5b-4154-899e-6ff262be7ff7"
+        ],
+        "package_ndc": [
+          "11534-190-01",
+          "11534-190-03",
+          "11534-191-01",
+          "11534-191-03",
+          "11534-192-01",
+          "11534-192-03",
+          "11534-193-01",
+          "11534-193-03",
+          "11534-194-01",
+          "11534-194-03",
+          "11534-195-01",
+          "11534-195-03",
+          "11534-196-01",
+          "11534-196-03"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/01/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 7.5 mg; 7.5 mg; 7.5 mg; 7.5 mg (NDC 11534-196-01)",
+      "company_name": "Sunrise Pharmaceutical, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "0406-8893-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-325-8888",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040440"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE AND AMPHETAMINE ASPARTATE AND DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE AND AMPHETAMINE ASPARTATE AND DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "SpecGx LLC"
+        ],
+        "product_ndc": [
+          "0406-8893",
+          "0406-8891",
+          "0406-8884",
+          "0406-8892",
+          "0406-8885",
+          "0406-8894"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "1009145"
+        ],
+        "spl_id": [
+          "0d3fb5ba-ff79-4862-bc1d-45b8343e115b"
+        ],
+        "spl_set_id": [
+          "72ddd1c9-ddbd-4c95-acd9-003189a353a3"
+        ],
+        "package_ndc": [
+          "0406-8891-01",
+          "0406-8884-01",
+          "0406-8892-01",
+          "0406-8885-01",
+          "0406-8893-01",
+          "0406-8894-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "08/20/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 5 mg; 5 mg; 5 mg; 5 mg (NDC 0406-8893-01)",
+      "company_name": "SpecGx LLC",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "0185-0853-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-525-8747",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040439"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE MONOHYDRATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE MONOHYDRATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Sandoz Inc"
+        ],
+        "product_ndc": [
+          "0185-0853",
+          "0185-0831",
+          "0185-0842",
+          "0185-0864",
+          "0185-2099",
+          "0185-2098"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577961"
+        ],
+        "spl_id": [
+          "9a21fb59-a99c-4c63-91e8-4b5d72fbd9cd"
+        ],
+        "spl_set_id": [
+          "288dafc4-fe6e-4891-832f-511022c87445"
+        ],
+        "package_ndc": [
+          "0185-0831-01",
+          "0185-0842-01",
+          "0185-0853-01",
+          "0185-0864-01",
+          "0185-2099-01",
+          "0185-2098-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "10/21/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 5 mg; 5 mg; 5 mg; 5 mg (NDC 0185-0853-01)",
+      "company_name": "Sandoz Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Revised",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "13107-069-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "(866) 850-2876 or CustomerService@AurobindoUSA.com",
+      "availability": "Unavailable",
+      "related_info": "Estimated availability: April 2027",
+      "openfda": {
+        "application_number": [
+          "ANDA202424"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Aurolife Pharma, LLC"
+        ],
+        "product_ndc": [
+          "13107-069",
+          "13107-068",
+          "13107-070",
+          "13107-071",
+          "13107-072",
+          "13107-073",
+          "13107-074"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "44a9eb77-0896-4b62-9953-7121d97d6ffd"
+        ],
+        "spl_set_id": [
+          "a582d57f-d191-4ca5-b105-585b2d8a0e3e"
+        ],
+        "package_ndc": [
+          "13107-068-50",
+          "13107-068-01",
+          "13107-068-25",
+          "13107-068-05",
+          "13107-068-99",
+          "13107-069-50",
+          "13107-069-01",
+          "13107-069-25",
+          "13107-069-05",
+          "13107-069-99",
+          "13107-070-50",
+          "13107-070-01",
+          "13107-070-25",
+          "13107-070-05",
+          "13107-070-99",
+          "13107-071-50",
+          "13107-071-01",
+          "13107-071-25",
+          "13107-071-05",
+          "13107-071-99",
+          "13107-072-50",
+          "13107-072-01",
+          "13107-072-25",
+          "13107-072-05",
+          "13107-072-99",
+          "13107-073-50",
+          "13107-073-01",
+          "13107-073-25",
+          "13107-073-05",
+          "13107-073-99",
+          "13107-074-50",
+          "13107-074-01",
+          "13107-074-25",
+          "13107-074-05",
+          "13107-074-99"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "10/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 1.875 mg; 1.875 mg; 1.875 mg; 1.875 mg (NDC 13107-069-01)",
+      "company_name": "Aurobindo Pharma USA",
+      "shortage_reason": "Shortage of an active ingredient",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "11534-191-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "732-382-6085 Monday to Friday 9 am to 3:45 pm",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA209799"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "SUNRISE PHARMACEUTICAL, INC."
+        ],
+        "product_ndc": [
+          "11534-191",
+          "11534-190",
+          "11534-192",
+          "11534-193",
+          "11534-194",
+          "11534-195",
+          "11534-196"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "60dcfbf6-d07a-4010-ae77-8a9ae4529828"
+        ],
+        "spl_set_id": [
+          "ac102599-3a5b-4154-899e-6ff262be7ff7"
+        ],
+        "package_ndc": [
+          "11534-190-01",
+          "11534-190-03",
+          "11534-191-01",
+          "11534-191-03",
+          "11534-192-01",
+          "11534-192-03",
+          "11534-193-01",
+          "11534-193-03",
+          "11534-194-01",
+          "11534-194-03",
+          "11534-195-01",
+          "11534-195-03",
+          "11534-196-01",
+          "11534-196-03"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/01/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 1.875 mg; 1.875 mg; 1.875 mg; 1.875 mg (NDC 11534-191-01)",
+      "company_name": "Sunrise Pharmaceutical, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "42806-339-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "(718) 276-8600 ext. 3",
+      "availability": "Limited Availability",
+      "related_info": "Estimated recovery: TBD",
+      "openfda": {
+        "application_number": [
+          "ANDA040444"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Epic Pharma, LLC"
+        ],
+        "product_ndc": [
+          "42806-339",
+          "42806-341",
+          "42806-343",
+          "42806-344",
+          "42806-345"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961"
+        ],
+        "spl_id": [
+          "f11301e2-3b5d-468d-b44c-45839e7e5dfb"
+        ],
+        "spl_set_id": [
+          "1757e132-061d-4773-89ed-fdc77f69008f"
+        ],
+        "package_ndc": [
+          "42806-339-01",
+          "42806-341-01",
+          "42806-343-01",
+          "42806-344-01",
+          "42806-345-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/03/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 1.25 mg; 1.25 mg; 1.25 mg; 1.25 mg (NDC 42806-339-01)",
+      "company_name": "Epic Pharma, LLC",
+      "shortage_reason": "Shortage of an active ingredient",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "0555-0972-02",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-545-8800",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040422"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "0555-0972",
+          "0555-0971",
+          "0555-0775",
+          "0555-0776",
+          "0555-0777",
+          "0555-0973",
+          "0555-0974"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "88468f3d-7d03-4cee-aabf-3abc8c9b5e38"
+        ],
+        "spl_set_id": [
+          "cffbbb15-d776-41ae-a8a6-687f2c07bfa4"
+        ],
+        "package_ndc": [
+          "0555-0971-02",
+          "0555-0775-02",
+          "0555-0972-02",
+          "0555-0776-02",
+          "0555-0777-02",
+          "0555-0973-02",
+          "0555-0974-02"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 2.5 mg; 2.5 mg; 2.5 mg; 2.5 mg (NDC 0555-0972-02)",
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "72516-011-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "855-257-0292",
+      "availability": "Unavailable",
+      "related_info": "Estimated recovery: April 2027",
+      "openfda": {
+        "application_number": [
+          "ANDA210293"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Oryza Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "72516-011",
+          "72516-016",
+          "72516-015",
+          "72516-014",
+          "72516-013",
+          "72516-012"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "1009145"
+        ],
+        "spl_id": [
+          "5734011d-5044-b490-e063-6394a90a3174"
+        ],
+        "spl_set_id": [
+          "acd27181-a3f3-4c38-85d8-029a4a82e7c2"
+        ],
+        "package_ndc": [
+          "72516-016-01",
+          "72516-015-01",
+          "72516-014-01",
+          "72516-013-01",
+          "72516-012-01",
+          "72516-011-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "10/15/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 7.5 mg; 7.5 mg; 7.5 mg; 7.5 mg (NDC 72516-011-01)",
+      "company_name": "Oryza Pharmaceuticals Inc.",
+      "shortage_reason": "Shortage of an active ingredient",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "0555-0775-02",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-545-8800",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040422"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "0555-0775",
+          "0555-0971",
+          "0555-0972",
+          "0555-0776",
+          "0555-0777",
+          "0555-0973",
+          "0555-0974"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "88468f3d-7d03-4cee-aabf-3abc8c9b5e38"
+        ],
+        "spl_set_id": [
+          "cffbbb15-d776-41ae-a8a6-687f2c07bfa4"
+        ],
+        "package_ndc": [
+          "0555-0971-02",
+          "0555-0775-02",
+          "0555-0972-02",
+          "0555-0776-02",
+          "0555-0777-02",
+          "0555-0973-02",
+          "0555-0974-02"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 1.875 mg; 1.875 mg; 1.875 mg; 1.875 mg (NDC 0555-0775-02)",
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Revised",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "13107-072-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "(866) 850-2876 OR CustomerService@AurobindoUSA.com",
+      "availability": "Unavailable",
+      "related_info": "Estimated availability: April 2027",
+      "openfda": {
+        "application_number": [
+          "ANDA202424"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Aurolife Pharma, LLC"
+        ],
+        "product_ndc": [
+          "13107-072",
+          "13107-068",
+          "13107-069",
+          "13107-070",
+          "13107-071",
+          "13107-073",
+          "13107-074"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "44a9eb77-0896-4b62-9953-7121d97d6ffd"
+        ],
+        "spl_set_id": [
+          "a582d57f-d191-4ca5-b105-585b2d8a0e3e"
+        ],
+        "package_ndc": [
+          "13107-068-50",
+          "13107-068-01",
+          "13107-068-25",
+          "13107-068-05",
+          "13107-068-99",
+          "13107-069-50",
+          "13107-069-01",
+          "13107-069-25",
+          "13107-069-05",
+          "13107-069-99",
+          "13107-070-50",
+          "13107-070-01",
+          "13107-070-25",
+          "13107-070-05",
+          "13107-070-99",
+          "13107-071-50",
+          "13107-071-01",
+          "13107-071-25",
+          "13107-071-05",
+          "13107-071-99",
+          "13107-072-50",
+          "13107-072-01",
+          "13107-072-25",
+          "13107-072-05",
+          "13107-072-99",
+          "13107-073-50",
+          "13107-073-01",
+          "13107-073-25",
+          "13107-073-05",
+          "13107-073-99",
+          "13107-074-50",
+          "13107-074-01",
+          "13107-074-25",
+          "13107-074-05",
+          "13107-074-99"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "10/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 3.75 mg; 3.75 mg; 3.75 mg; 3.75 mg (NDC 13107-072-01)",
+      "company_name": "Aurobindo Pharma USA",
+      "shortage_reason": "Shortage of an active ingredient",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "0555-0971-02",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-545-8800",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040422"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "0555-0971",
+          "0555-0775",
+          "0555-0972",
+          "0555-0776",
+          "0555-0777",
+          "0555-0973",
+          "0555-0974"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "88468f3d-7d03-4cee-aabf-3abc8c9b5e38"
+        ],
+        "spl_set_id": [
+          "cffbbb15-d776-41ae-a8a6-687f2c07bfa4"
+        ],
+        "package_ndc": [
+          "0555-0971-02",
+          "0555-0775-02",
+          "0555-0972-02",
+          "0555-0776-02",
+          "0555-0777-02",
+          "0555-0973-02",
+          "0555-0974-02"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 1.25 mg; 1.25 mg; 1.25 mg; 1.25 mg (NDC 0555-0971-02)",
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "status": "Current"
+    },
+    {
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 20mg (NDC 47781-179-01)",
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "47781-179-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "company_name": "Alvogen",
+      "contact_info": "844-842-8672 and email: CustomerService-US@alvogen.com",
+      "availability": "Available",
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "status": "Current",
+      "dosage_form": "Tablet"
+    },
+    {
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 5 mg; 5 mg; 5 mg; 5 mg (NDC 0527-1505-37)",
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "0527-1505-37",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "company_name": "Lannett Company, Inc.",
+      "contact_info": "844-834-0530",
+      "availability": "Available",
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "status": "Current",
+      "dosage_form": "Tablet"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "72516-013-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "855-257-0292",
+      "availability": "Unavailable",
+      "related_info": "Estimated recovery: April 2027",
+      "openfda": {
+        "application_number": [
+          "ANDA210293"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Oryza Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "72516-013",
+          "72516-016",
+          "72516-015",
+          "72516-014",
+          "72516-012",
+          "72516-011"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "1009145"
+        ],
+        "spl_id": [
+          "5734011d-5044-b490-e063-6394a90a3174"
+        ],
+        "spl_set_id": [
+          "acd27181-a3f3-4c38-85d8-029a4a82e7c2"
+        ],
+        "package_ndc": [
+          "72516-016-01",
+          "72516-015-01",
+          "72516-014-01",
+          "72516-013-01",
+          "72516-012-01",
+          "72516-011-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "10/15/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 3.75 mg; 3.75 mg; 3.75 mg; 3.75 mg (NDC 72516-013-01)",
+      "company_name": "Oryza Pharmaceuticals Inc.",
+      "shortage_reason": "Shortage of an active ingredient",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "11534-193-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "732-382-6085 Monday to Friday 9 am to 3:45 pm",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA209799"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "SUNRISE PHARMACEUTICAL, INC."
+        ],
+        "product_ndc": [
+          "11534-193",
+          "11534-190",
+          "11534-191",
+          "11534-192",
+          "11534-194",
+          "11534-195",
+          "11534-196"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "60dcfbf6-d07a-4010-ae77-8a9ae4529828"
+        ],
+        "spl_set_id": [
+          "ac102599-3a5b-4154-899e-6ff262be7ff7"
+        ],
+        "package_ndc": [
+          "11534-190-01",
+          "11534-190-03",
+          "11534-191-01",
+          "11534-191-03",
+          "11534-192-01",
+          "11534-192-03",
+          "11534-193-01",
+          "11534-193-03",
+          "11534-194-01",
+          "11534-194-03",
+          "11534-195-01",
+          "11534-195-03",
+          "11534-196-01",
+          "11534-196-03"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/01/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 3.125 mg; 3.125 mg; 3.125 mg; 3.125 mg (NDC 11534-193-01)",
+      "company_name": "Sunrise Pharmaceutical, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "0555-0776-02",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-545-8800",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040422"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "0555-0776",
+          "0555-0971",
+          "0555-0775",
+          "0555-0972",
+          "0555-0777",
+          "0555-0973",
+          "0555-0974"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "88468f3d-7d03-4cee-aabf-3abc8c9b5e38"
+        ],
+        "spl_set_id": [
+          "cffbbb15-d776-41ae-a8a6-687f2c07bfa4"
+        ],
+        "package_ndc": [
+          "0555-0971-02",
+          "0555-0775-02",
+          "0555-0972-02",
+          "0555-0776-02",
+          "0555-0777-02",
+          "0555-0973-02",
+          "0555-0974-02"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 3.125 mg; 3.125 mg; 3.125 mg; 3.125 mg (NDC 0555-0776-02)",
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "57844-112-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-545-8800",
+      "availability": "Unavailable",
+      "related_info": "Estimated recovery: November 2026",
+      "openfda": {
+        "application_number": [
+          "ANDA040422"
+        ],
+        "brand_name": [
+          "ADDERALL"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE, AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "57844-112",
+          "57844-105",
+          "57844-117",
+          "57844-110",
+          "57844-115",
+          "57844-120",
+          "57844-130"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541365",
+          "541878",
+          "541879",
+          "541892",
+          "541894",
+          "577957",
+          "577960",
+          "577961",
+          "577962",
+          "687043",
+          "687045",
+          "1009145",
+          "1009147"
+        ],
+        "spl_id": [
+          "79af1dc6-c7cf-41b1-a750-e9b47c2187ff"
+        ],
+        "spl_set_id": [
+          "f22635fe-821d-4cde-aa12-419f8b53db81"
+        ],
+        "package_ndc": [
+          "57844-105-01",
+          "57844-117-01",
+          "57844-110-01",
+          "57844-112-01",
+          "57844-115-01",
+          "57844-120-01",
+          "57844-130-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Adderall, Tablet, 3.125 mg; 3.125 mg; 3.125 mg; 3.125 mg (NDC 57844-112-01)",
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "shortage_reason": "Other",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "11534-194-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "732-382-6085 Monday to Friday 9 am to 3:45 pm",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA209799"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "SUNRISE PHARMACEUTICAL, INC."
+        ],
+        "product_ndc": [
+          "11534-194",
+          "11534-190",
+          "11534-191",
+          "11534-192",
+          "11534-193",
+          "11534-195",
+          "11534-196"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "60dcfbf6-d07a-4010-ae77-8a9ae4529828"
+        ],
+        "spl_set_id": [
+          "ac102599-3a5b-4154-899e-6ff262be7ff7"
+        ],
+        "package_ndc": [
+          "11534-190-01",
+          "11534-190-03",
+          "11534-191-01",
+          "11534-191-03",
+          "11534-192-01",
+          "11534-192-03",
+          "11534-193-01",
+          "11534-193-03",
+          "11534-194-01",
+          "11534-194-03",
+          "11534-195-01",
+          "11534-195-03",
+          "11534-196-01",
+          "11534-196-03"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/01/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 3.75 mg; 3.75 mg; 3.75 mg; 3.75 mg (NDC 11534-194-01)",
+      "company_name": "Sunrise Pharmaceutical, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Revised",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "70010-116-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "877-770-3183",
+      "availability": "Unavailable",
+      "related_info": "Estimated recovery: November 2026",
+      "openfda": {
+        "application_number": [
+          "ANDA215771"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Granules Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "70010-116",
+          "70010-111",
+          "70010-112",
+          "70010-113",
+          "70010-114",
+          "70010-115",
+          "70010-117"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "56c7c921-e560-c5ad-e063-6294a90a4c81"
+        ],
+        "spl_set_id": [
+          "b0b4eccc-34c7-483d-966f-82d588358e1b"
+        ],
+        "package_ndc": [
+          "70010-111-01",
+          "70010-111-03",
+          "70010-112-01",
+          "70010-112-03",
+          "70010-113-01",
+          "70010-113-03",
+          "70010-114-01",
+          "70010-114-03",
+          "70010-115-01",
+          "70010-115-03",
+          "70010-116-01",
+          "70010-116-03",
+          "70010-117-01",
+          "70010-117-03"
+        ],
+        "unii": [
+          "JJ768O327N",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "G83415V073"
+        ]
+      },
+      "update_date": "10/28/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 5 mg; 5 mg; 5 mg; 5 mg (NDC 70010-116-01)",
+      "company_name": "Granules Pharmaceuticals Inc.",
+      "shortage_reason": "Shortage of an active ingredient",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "72516-012-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "855-257-0292",
+      "availability": "Unavailable",
+      "related_info": "Estimated recovery: April 2027",
+      "openfda": {
+        "application_number": [
+          "ANDA210293"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Oryza Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "72516-012",
+          "72516-016",
+          "72516-015",
+          "72516-014",
+          "72516-013",
+          "72516-011"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "1009145"
+        ],
+        "spl_id": [
+          "5734011d-5044-b490-e063-6394a90a3174"
+        ],
+        "spl_set_id": [
+          "acd27181-a3f3-4c38-85d8-029a4a82e7c2"
+        ],
+        "package_ndc": [
+          "72516-016-01",
+          "72516-015-01",
+          "72516-014-01",
+          "72516-013-01",
+          "72516-012-01",
+          "72516-011-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "10/15/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 5 mg; 5 mg; 5 mg; 5 mg (NDC 72516-012-01)",
+      "company_name": "Oryza Pharmaceuticals Inc.",
+      "shortage_reason": "Shortage of an active ingredient",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "0555-0777-02",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-545-8800",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040422"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "0555-0777",
+          "0555-0971",
+          "0555-0775",
+          "0555-0972",
+          "0555-0776",
+          "0555-0973",
+          "0555-0974"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "88468f3d-7d03-4cee-aabf-3abc8c9b5e38"
+        ],
+        "spl_set_id": [
+          "cffbbb15-d776-41ae-a8a6-687f2c07bfa4"
+        ],
+        "package_ndc": [
+          "0555-0971-02",
+          "0555-0775-02",
+          "0555-0972-02",
+          "0555-0776-02",
+          "0555-0777-02",
+          "0555-0973-02",
+          "0555-0974-02"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 3.75 mg; 3.75 mg; 3.75 mg; 3.75 mg (NDC 0555-0777-02)",
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Revised",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "0406-8894-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-325-8888",
+      "availability": "Limited Availability",
+      "related_info": "Estimated recovery: TBD",
+      "openfda": {
+        "application_number": [
+          "ANDA040440"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE AND AMPHETAMINE ASPARTATE AND DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE AND AMPHETAMINE ASPARTATE AND DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "SpecGx LLC"
+        ],
+        "product_ndc": [
+          "0406-8894",
+          "0406-8891",
+          "0406-8884",
+          "0406-8892",
+          "0406-8885",
+          "0406-8893"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "1009145"
+        ],
+        "spl_id": [
+          "0d3fb5ba-ff79-4862-bc1d-45b8343e115b"
+        ],
+        "spl_set_id": [
+          "72ddd1c9-ddbd-4c95-acd9-003189a353a3"
+        ],
+        "package_ndc": [
+          "0406-8891-01",
+          "0406-8884-01",
+          "0406-8892-01",
+          "0406-8885-01",
+          "0406-8893-01",
+          "0406-8894-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "08/20/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 7.5 mg; 7.5 mg; 7.5 mg; 7.5 mg (NDC 0406-8894-01)",
+      "company_name": "SpecGx LLC",
+      "shortage_reason": "Demand increase for the drug",
+      "status": "Current"
+    },
+    {
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 10mg (NDC 47781-176-01)",
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "47781-176-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "company_name": "Alvogen",
+      "contact_info": "844-842-8672 and email: CustomerService-US@alvogen.com",
+      "availability": "Available",
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "status": "Current",
+      "dosage_form": "Tablet"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "0406-8884-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-325-8888",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040440"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE AND AMPHETAMINE ASPARTATE AND DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE AND AMPHETAMINE ASPARTATE AND DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "SpecGx LLC"
+        ],
+        "product_ndc": [
+          "0406-8884",
+          "0406-8891",
+          "0406-8892",
+          "0406-8885",
+          "0406-8893",
+          "0406-8894"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "1009145"
+        ],
+        "spl_id": [
+          "0d3fb5ba-ff79-4862-bc1d-45b8343e115b"
+        ],
+        "spl_set_id": [
+          "72ddd1c9-ddbd-4c95-acd9-003189a353a3"
+        ],
+        "package_ndc": [
+          "0406-8891-01",
+          "0406-8884-01",
+          "0406-8892-01",
+          "0406-8885-01",
+          "0406-8893-01",
+          "0406-8894-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "08/20/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 1.875 mg; 1.875 mg; 1.875 mg; 1.875 mg (NDC 0406-8884-01)",
+      "company_name": "SpecGx LLC",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "0527-0763-37",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "844-834-0530",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA215565"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Lannett Company, LLC"
+        ],
+        "product_ndc": [
+          "0527-0763",
+          "0527-0760",
+          "0527-0761",
+          "0527-0762",
+          "0527-0764",
+          "0527-0765",
+          "0527-0766"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "391d7c4a-47df-41ce-b1ba-3c4758adf87f"
+        ],
+        "spl_set_id": [
+          "f92497b5-baea-4760-b615-45a0b6184402"
+        ],
+        "package_ndc": [
+          "0527-0760-37",
+          "0527-0761-37",
+          "0527-0762-37",
+          "0527-0763-37",
+          "0527-0764-37",
+          "0527-0765-37",
+          "0527-0766-37"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 3.125 mg; 3.125 mg; 3.125 mg; 3.125 mg (NDC 0527-0763-37)",
+      "company_name": "Lannett Company, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "0555-0973-02",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-545-8800",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040422"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "0555-0973",
+          "0555-0971",
+          "0555-0775",
+          "0555-0972",
+          "0555-0776",
+          "0555-0777",
+          "0555-0974"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "88468f3d-7d03-4cee-aabf-3abc8c9b5e38"
+        ],
+        "spl_set_id": [
+          "cffbbb15-d776-41ae-a8a6-687f2c07bfa4"
+        ],
+        "package_ndc": [
+          "0555-0971-02",
+          "0555-0775-02",
+          "0555-0972-02",
+          "0555-0776-02",
+          "0555-0777-02",
+          "0555-0973-02",
+          "0555-0974-02"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 5 mg; 5 mg; 5 mg; 5 mg (NDC 0555-0973-02)",
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "72516-014-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "855-257-0292",
+      "availability": "Unavailable",
+      "related_info": "Estimated recovery: April 2027",
+      "openfda": {
+        "application_number": [
+          "ANDA210293"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Oryza Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "72516-014",
+          "72516-016",
+          "72516-015",
+          "72516-013",
+          "72516-012",
+          "72516-011"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "1009145"
+        ],
+        "spl_id": [
+          "5734011d-5044-b490-e063-6394a90a3174"
+        ],
+        "spl_set_id": [
+          "acd27181-a3f3-4c38-85d8-029a4a82e7c2"
+        ],
+        "package_ndc": [
+          "72516-016-01",
+          "72516-015-01",
+          "72516-014-01",
+          "72516-013-01",
+          "72516-012-01",
+          "72516-011-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "10/15/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 2.5 mg; 2.5 mg; 2.5 mg; 2.5 mg (NDC 72516-014-01)",
+      "company_name": "Oryza Pharmaceuticals Inc.",
+      "shortage_reason": "Shortage of an active ingredient",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "57844-117-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-545-8800",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040422"
+        ],
+        "brand_name": [
+          "ADDERALL"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE, AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "57844-117",
+          "57844-105",
+          "57844-110",
+          "57844-112",
+          "57844-115",
+          "57844-120",
+          "57844-130"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541365",
+          "541878",
+          "541879",
+          "541892",
+          "541894",
+          "577957",
+          "577960",
+          "577961",
+          "577962",
+          "687043",
+          "687045",
+          "1009145",
+          "1009147"
+        ],
+        "spl_id": [
+          "79af1dc6-c7cf-41b1-a750-e9b47c2187ff"
+        ],
+        "spl_set_id": [
+          "f22635fe-821d-4cde-aa12-419f8b53db81"
+        ],
+        "package_ndc": [
+          "57844-105-01",
+          "57844-117-01",
+          "57844-110-01",
+          "57844-112-01",
+          "57844-115-01",
+          "57844-120-01",
+          "57844-130-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Adderall, Tablet, 1.875 mg; 1.875 mg; 1.875 mg; 1.875 mg (NDC 57844-117-01)",
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "57844-105-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-545-8800",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040422"
+        ],
+        "brand_name": [
+          "ADDERALL"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE, AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "57844-105",
+          "57844-117",
+          "57844-110",
+          "57844-112",
+          "57844-115",
+          "57844-120",
+          "57844-130"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541365",
+          "541878",
+          "541879",
+          "541892",
+          "541894",
+          "577957",
+          "577960",
+          "577961",
+          "577962",
+          "687043",
+          "687045",
+          "1009145",
+          "1009147"
+        ],
+        "spl_id": [
+          "79af1dc6-c7cf-41b1-a750-e9b47c2187ff"
+        ],
+        "spl_set_id": [
+          "f22635fe-821d-4cde-aa12-419f8b53db81"
+        ],
+        "package_ndc": [
+          "57844-105-01",
+          "57844-117-01",
+          "57844-110-01",
+          "57844-112-01",
+          "57844-115-01",
+          "57844-120-01",
+          "57844-130-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Adderall, Tablet, 1.25 mg; 1.25 mg; 1.25 mg; 1.25 mg (NDC 57844-105-01)",
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "64850-505-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "888-852-6657",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA211352"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Elite Laboratories, Inc."
+        ],
+        "product_ndc": [
+          "64850-505",
+          "64850-500",
+          "64850-501",
+          "64850-502",
+          "64850-503",
+          "64850-504",
+          "64850-506"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "a41cf8e5-cb1b-488c-96b3-3bef8283d6c4"
+        ],
+        "spl_set_id": [
+          "e677690f-790f-4626-ad78-097cdb6ea540"
+        ],
+        "package_ndc": [
+          "64850-500-01",
+          "64850-500-05",
+          "64850-500-30",
+          "64850-501-01",
+          "64850-501-05",
+          "64850-501-30",
+          "64850-502-01",
+          "64850-502-05",
+          "64850-502-30",
+          "64850-503-01",
+          "64850-503-05",
+          "64850-503-30",
+          "64850-504-01",
+          "64850-504-05",
+          "64850-504-30",
+          "64850-505-01",
+          "64850-505-05",
+          "64850-505-30",
+          "64850-506-01",
+          "64850-506-05",
+          "64850-506-30"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/03/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 5 mg; 5 mg; 5 mg; 5 mg (NDC 64850-505-01)",
+      "company_name": "Elite Laboratories, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "57844-120-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-545-8800",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040422"
+        ],
+        "brand_name": [
+          "ADDERALL"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE, AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "57844-120",
+          "57844-105",
+          "57844-117",
+          "57844-110",
+          "57844-112",
+          "57844-115",
+          "57844-130"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541365",
+          "541878",
+          "541879",
+          "541892",
+          "541894",
+          "577957",
+          "577960",
+          "577961",
+          "577962",
+          "687043",
+          "687045",
+          "1009145",
+          "1009147"
+        ],
+        "spl_id": [
+          "79af1dc6-c7cf-41b1-a750-e9b47c2187ff"
+        ],
+        "spl_set_id": [
+          "f22635fe-821d-4cde-aa12-419f8b53db81"
+        ],
+        "package_ndc": [
+          "57844-105-01",
+          "57844-117-01",
+          "57844-110-01",
+          "57844-112-01",
+          "57844-115-01",
+          "57844-120-01",
+          "57844-130-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Adderall, Tablet, 5 mg; 5 mg; 5 mg; 5 mg (NDC 57844-120-01)",
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "64850-500-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "888-852-6657",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA211352"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Elite Laboratories, Inc."
+        ],
+        "product_ndc": [
+          "64850-500",
+          "64850-501",
+          "64850-502",
+          "64850-503",
+          "64850-504",
+          "64850-505",
+          "64850-506"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "a41cf8e5-cb1b-488c-96b3-3bef8283d6c4"
+        ],
+        "spl_set_id": [
+          "e677690f-790f-4626-ad78-097cdb6ea540"
+        ],
+        "package_ndc": [
+          "64850-500-01",
+          "64850-500-05",
+          "64850-500-30",
+          "64850-501-01",
+          "64850-501-05",
+          "64850-501-30",
+          "64850-502-01",
+          "64850-502-05",
+          "64850-502-30",
+          "64850-503-01",
+          "64850-503-05",
+          "64850-503-30",
+          "64850-504-01",
+          "64850-504-05",
+          "64850-504-30",
+          "64850-505-01",
+          "64850-505-05",
+          "64850-505-30",
+          "64850-506-01",
+          "64850-506-05",
+          "64850-506-30"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/03/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 1.25 mg; 1.25 mg; 1.25 mg; 1.25 mg (NDC 64850-500-01)",
+      "company_name": "Elite Laboratories, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "64850-503-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "888-852-6657",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA211352"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Elite Laboratories, Inc."
+        ],
+        "product_ndc": [
+          "64850-503",
+          "64850-500",
+          "64850-501",
+          "64850-502",
+          "64850-504",
+          "64850-505",
+          "64850-506"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "a41cf8e5-cb1b-488c-96b3-3bef8283d6c4"
+        ],
+        "spl_set_id": [
+          "e677690f-790f-4626-ad78-097cdb6ea540"
+        ],
+        "package_ndc": [
+          "64850-500-01",
+          "64850-500-05",
+          "64850-500-30",
+          "64850-501-01",
+          "64850-501-05",
+          "64850-501-30",
+          "64850-502-01",
+          "64850-502-05",
+          "64850-502-30",
+          "64850-503-01",
+          "64850-503-05",
+          "64850-503-30",
+          "64850-504-01",
+          "64850-504-05",
+          "64850-504-30",
+          "64850-505-01",
+          "64850-505-05",
+          "64850-505-30",
+          "64850-506-01",
+          "64850-506-05",
+          "64850-506-30"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/03/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 3.125 mg; 3.125 mg; 3.125 mg; 3.125 mg (NDC 64850-503-01)",
+      "company_name": "Elite Laboratories, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "0527-0761-37",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "844-834-0530",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA215565"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Lannett Company, LLC"
+        ],
+        "product_ndc": [
+          "0527-0761",
+          "0527-0760",
+          "0527-0762",
+          "0527-0763",
+          "0527-0764",
+          "0527-0765",
+          "0527-0766"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "391d7c4a-47df-41ce-b1ba-3c4758adf87f"
+        ],
+        "spl_set_id": [
+          "f92497b5-baea-4760-b615-45a0b6184402"
+        ],
+        "package_ndc": [
+          "0527-0760-37",
+          "0527-0761-37",
+          "0527-0762-37",
+          "0527-0763-37",
+          "0527-0764-37",
+          "0527-0765-37",
+          "0527-0766-37"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 1.875 mg; 1.875 mg; 1.875 mg; 1.875 mg (NDC 0527-0761-37)",
+      "company_name": "Lannett Company, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "0406-8885-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-325-8888",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040440"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE AND AMPHETAMINE ASPARTATE AND DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE AND AMPHETAMINE ASPARTATE AND DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "SpecGx LLC"
+        ],
+        "product_ndc": [
+          "0406-8885",
+          "0406-8891",
+          "0406-8884",
+          "0406-8892",
+          "0406-8893",
+          "0406-8894"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "1009145"
+        ],
+        "spl_id": [
+          "0d3fb5ba-ff79-4862-bc1d-45b8343e115b"
+        ],
+        "spl_set_id": [
+          "72ddd1c9-ddbd-4c95-acd9-003189a353a3"
+        ],
+        "package_ndc": [
+          "0406-8891-01",
+          "0406-8884-01",
+          "0406-8892-01",
+          "0406-8885-01",
+          "0406-8893-01",
+          "0406-8894-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "08/20/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 3.75 mg; 3.75 mg; 3.75 mg; 3.75 mg (NDC 0406-8885-01)",
+      "company_name": "SpecGx LLC",
+      "status": "Current"
+    },
+    {
+      "update_type": "Revised",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "70010-115-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "877-770-3183",
+      "availability": "Unavailable",
+      "related_info": "Estimated recovery: November 2026",
+      "openfda": {
+        "application_number": [
+          "ANDA215771"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Granules Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "70010-115",
+          "70010-111",
+          "70010-112",
+          "70010-113",
+          "70010-114",
+          "70010-116",
+          "70010-117"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "56c7c921-e560-c5ad-e063-6294a90a4c81"
+        ],
+        "spl_set_id": [
+          "b0b4eccc-34c7-483d-966f-82d588358e1b"
+        ],
+        "package_ndc": [
+          "70010-111-01",
+          "70010-111-03",
+          "70010-112-01",
+          "70010-112-03",
+          "70010-113-01",
+          "70010-113-03",
+          "70010-114-01",
+          "70010-114-03",
+          "70010-115-01",
+          "70010-115-03",
+          "70010-116-01",
+          "70010-116-03",
+          "70010-117-01",
+          "70010-117-03"
+        ],
+        "unii": [
+          "JJ768O327N",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "G83415V073"
+        ]
+      },
+      "update_date": "10/28/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 3.75 mg; 3.75 mg; 3.75 mg; 3.75 mg (NDC 70010-115-01)",
+      "company_name": "Granules Pharmaceuticals Inc.",
+      "shortage_reason": "Shortage of an active ingredient",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "0185-2098-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-525-8747",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040439"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE MONOHYDRATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE MONOHYDRATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Sandoz Inc"
+        ],
+        "product_ndc": [
+          "0185-2098",
+          "0185-0831",
+          "0185-0842",
+          "0185-0853",
+          "0185-0864",
+          "0185-2099"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577961"
+        ],
+        "spl_id": [
+          "9a21fb59-a99c-4c63-91e8-4b5d72fbd9cd"
+        ],
+        "spl_set_id": [
+          "288dafc4-fe6e-4891-832f-511022c87445"
+        ],
+        "package_ndc": [
+          "0185-0831-01",
+          "0185-0842-01",
+          "0185-0853-01",
+          "0185-0864-01",
+          "0185-2099-01",
+          "0185-2098-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "10/21/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 1.25 mg; 1.25 mg; 1.25 mg; 1.25 mg (NDC 0185-2098-01)",
+      "company_name": "Sandoz Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Revised",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "70010-111-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "877-770-3183",
+      "availability": "Unavailable",
+      "related_info": "Estimated recovery: November 2026",
+      "openfda": {
+        "application_number": [
+          "ANDA215771"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Granules Pharmaceuticals Inc."
+        ],
+        "product_ndc": [
+          "70010-111",
+          "70010-112",
+          "70010-113",
+          "70010-114",
+          "70010-115",
+          "70010-116",
+          "70010-117"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "56c7c921-e560-c5ad-e063-6294a90a4c81"
+        ],
+        "spl_set_id": [
+          "b0b4eccc-34c7-483d-966f-82d588358e1b"
+        ],
+        "package_ndc": [
+          "70010-111-01",
+          "70010-111-03",
+          "70010-112-01",
+          "70010-112-03",
+          "70010-113-01",
+          "70010-113-03",
+          "70010-114-01",
+          "70010-114-03",
+          "70010-115-01",
+          "70010-115-03",
+          "70010-116-01",
+          "70010-116-03",
+          "70010-117-01",
+          "70010-117-03"
+        ],
+        "unii": [
+          "JJ768O327N",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "G83415V073"
+        ]
+      },
+      "update_date": "10/28/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 1.25 mg; 1.25 mg; 1.25 mg; 1.25 mg (NDC 70010-111-01)",
+      "company_name": "Granules Pharmaceuticals Inc.",
+      "shortage_reason": "Shortage of an active ingredient",
+      "status": "Current"
+    },
+    {
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 30mg (NDC 47781-180-01)",
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "47781-180-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "company_name": "Alvogen",
+      "contact_info": "844-842-8672 and email: CustomerService-US@alvogen.com",
+      "availability": "Available",
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "status": "Current",
+      "dosage_form": "Tablet"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "0527-0760-37",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "844-834-0530",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA215565"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Lannett Company, LLC"
+        ],
+        "product_ndc": [
+          "0527-0760",
+          "0527-0761",
+          "0527-0762",
+          "0527-0763",
+          "0527-0764",
+          "0527-0765",
+          "0527-0766"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "391d7c4a-47df-41ce-b1ba-3c4758adf87f"
+        ],
+        "spl_set_id": [
+          "f92497b5-baea-4760-b615-45a0b6184402"
+        ],
+        "package_ndc": [
+          "0527-0760-37",
+          "0527-0761-37",
+          "0527-0762-37",
+          "0527-0763-37",
+          "0527-0764-37",
+          "0527-0765-37",
+          "0527-0766-37"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 1.25 mg; 1.25 mg; 1.25 mg; 1.25 mg (NDC 0527-0760-37)",
+      "company_name": "Lannett Company, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "0185-0842-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-525-8747",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040439"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE MONOHYDRATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE MONOHYDRATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Sandoz Inc"
+        ],
+        "product_ndc": [
+          "0185-0842",
+          "0185-0831",
+          "0185-0853",
+          "0185-0864",
+          "0185-2099",
+          "0185-2098"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577961"
+        ],
+        "spl_id": [
+          "9a21fb59-a99c-4c63-91e8-4b5d72fbd9cd"
+        ],
+        "spl_set_id": [
+          "288dafc4-fe6e-4891-832f-511022c87445"
+        ],
+        "package_ndc": [
+          "0185-0831-01",
+          "0185-0842-01",
+          "0185-0853-01",
+          "0185-0864-01",
+          "0185-2099-01",
+          "0185-2098-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "10/21/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 2.5 mg; 2.5 mg; 2.5 mg; 2.5 mg (NDC 0185-0842-01)",
+      "company_name": "Sandoz Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Revised",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "0555-0974-02",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-545-8800",
+      "availability": "Limited Availability",
+      "related_info": "Estimated recovery: November 2026",
+      "openfda": {
+        "application_number": [
+          "ANDA040422"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Teva Pharmaceuticals USA, Inc."
+        ],
+        "product_ndc": [
+          "0555-0974",
+          "0555-0971",
+          "0555-0775",
+          "0555-0972",
+          "0555-0776",
+          "0555-0777",
+          "0555-0973"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "88468f3d-7d03-4cee-aabf-3abc8c9b5e38"
+        ],
+        "spl_set_id": [
+          "cffbbb15-d776-41ae-a8a6-687f2c07bfa4"
+        ],
+        "package_ndc": [
+          "0555-0971-02",
+          "0555-0775-02",
+          "0555-0972-02",
+          "0555-0776-02",
+          "0555-0777-02",
+          "0555-0973-02",
+          "0555-0974-02"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 7.5 mg; 7.5 mg; 7.5 mg; 7.5 mg (NDC 0555-0974-02)",
+      "company_name": "Teva Pharmaceuticals USA, Inc.",
+      "shortage_reason": "Other",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "11534-195-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "732-382-6085 Monday to Friday 9 am to 3:45 pm",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA209799"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "SUNRISE PHARMACEUTICAL, INC."
+        ],
+        "product_ndc": [
+          "11534-195",
+          "11534-190",
+          "11534-191",
+          "11534-192",
+          "11534-193",
+          "11534-194",
+          "11534-196"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "60dcfbf6-d07a-4010-ae77-8a9ae4529828"
+        ],
+        "spl_set_id": [
+          "ac102599-3a5b-4154-899e-6ff262be7ff7"
+        ],
+        "package_ndc": [
+          "11534-190-01",
+          "11534-190-03",
+          "11534-191-01",
+          "11534-191-03",
+          "11534-192-01",
+          "11534-192-03",
+          "11534-193-01",
+          "11534-193-03",
+          "11534-194-01",
+          "11534-194-03",
+          "11534-195-01",
+          "11534-195-03",
+          "11534-196-01",
+          "11534-196-03"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/01/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 5 mg; 5 mg; 5 mg; 5 mg (NDC 11534-195-01)",
+      "company_name": "Sunrise Pharmaceutical, Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "0185-2099-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "800-525-8747",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA040439"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE MONOHYDRATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE MONOHYDRATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Sandoz Inc"
+        ],
+        "product_ndc": [
+          "0185-2099",
+          "0185-0831",
+          "0185-0842",
+          "0185-0853",
+          "0185-0864",
+          "0185-2098"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577961"
+        ],
+        "spl_id": [
+          "9a21fb59-a99c-4c63-91e8-4b5d72fbd9cd"
+        ],
+        "spl_set_id": [
+          "288dafc4-fe6e-4891-832f-511022c87445"
+        ],
+        "package_ndc": [
+          "0185-0831-01",
+          "0185-0842-01",
+          "0185-0853-01",
+          "0185-0864-01",
+          "0185-2099-01",
+          "0185-2098-01"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "10/21/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 7.5 mg; 7.5 mg; 7.5 mg; 7.5 mg (NDC 0185-2099-01)",
+      "company_name": "Sandoz Inc.",
+      "status": "Current"
+    },
+    {
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "64850-501-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "contact_info": "888-852-6657",
+      "availability": "Available",
+      "openfda": {
+        "application_number": [
+          "ANDA211352"
+        ],
+        "brand_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "generic_name": [
+          "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE"
+        ],
+        "manufacturer_name": [
+          "Elite Laboratories, Inc."
+        ],
+        "product_ndc": [
+          "64850-501",
+          "64850-500",
+          "64850-502",
+          "64850-503",
+          "64850-504",
+          "64850-505",
+          "64850-506"
+        ],
+        "product_type": [
+          "HUMAN PRESCRIPTION DRUG"
+        ],
+        "route": [
+          "ORAL"
+        ],
+        "substance_name": [
+          "DEXTROAMPHETAMINE SACCHARATE",
+          "AMPHETAMINE ASPARTATE MONOHYDRATE",
+          "DEXTROAMPHETAMINE SULFATE",
+          "AMPHETAMINE SULFATE"
+        ],
+        "rxcui": [
+          "541363",
+          "541878",
+          "541892",
+          "577957",
+          "577961",
+          "687043",
+          "1009145"
+        ],
+        "spl_id": [
+          "a41cf8e5-cb1b-488c-96b3-3bef8283d6c4"
+        ],
+        "spl_set_id": [
+          "e677690f-790f-4626-ad78-097cdb6ea540"
+        ],
+        "package_ndc": [
+          "64850-500-01",
+          "64850-500-05",
+          "64850-500-30",
+          "64850-501-01",
+          "64850-501-05",
+          "64850-501-30",
+          "64850-502-01",
+          "64850-502-05",
+          "64850-502-30",
+          "64850-503-01",
+          "64850-503-05",
+          "64850-503-30",
+          "64850-504-01",
+          "64850-504-05",
+          "64850-504-30",
+          "64850-505-01",
+          "64850-505-05",
+          "64850-505-30",
+          "64850-506-01",
+          "64850-506-05",
+          "64850-506-30"
+        ],
+        "unii": [
+          "G83415V073",
+          "6DPV8NK46S",
+          "O1ZPV620O4",
+          "JJ768O327N"
+        ]
+      },
+      "update_date": "11/03/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "dosage_form": "Tablet",
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 1.875 mg; 1.875 mg; 1.875 mg; 1.875 mg (NDC 64850-501-01)",
+      "company_name": "Elite Laboratories, Inc.",
+      "status": "Current"
+    },
+    {
+      "presentation": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate, Tablet, 5mg (NDC 47781-174-01)",
+      "update_type": "Reverified",
+      "initial_posting_date": "10/12/2022",
+      "package_ndc": "47781-174-01",
+      "generic_name": "Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",
+      "company_name": "Alvogen",
+      "contact_info": "844-842-8672 and email: CustomerService-US@alvogen.com",
+      "availability": "Available",
+      "update_date": "11/02/2026",
+      "therapeutic_category": [
+        "Psychiatry"
+      ],
+      "status": "Current",
+      "dosage_form": "Tablet"
+    }
+  ]
+}
